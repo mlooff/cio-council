@@ -23,7 +23,8 @@ layout: base
 <section class="usa-grid usa-section">
   <div class="tbtable">
   <div class="tbcell left">
-    <div><CENTER><IMG SRC="assets/img/cio.priority.png" alt="CIO Priority - TBM" height=117 width=115>
+    <div><CENTER><A HREF="cioc-priority-tbm/"><IMG SRC="assets/img/cio.priority.png" border=0 
+                                                   alt="CIO Priority - TBM" height=117 width=115></A>
       <p class="priority_title">CIO Council Priority:<BR>
         Technology Business Management</p>
       <p class="priority">
@@ -35,7 +36,8 @@ layout: base
   </div>
   <div class="tbcell right">
     <div><CENTER>
-      <IMG SRC="assets/img/shield-icon.png"  alt="CIO Priority - Cybersecurity Awareness Month" height=117 width=115>
+      <A HRE="cioc-priority-cybersecurity-awareness-month"><IMG SRC="assets/img/shield-icon.png"  
+                           border=0 alt="CIO Priority - Cybersecurity Awareness Month" height=117 width=115></A>
         <p class="priority_title">CIO Council Priority: Cyber<BR>
           Security Awareness Month</p>
         <p class="priority">
@@ -54,8 +56,12 @@ layout: base
 {% if page.banner-heading %}
 <section class="usa-section banner tagline">
   <div class="usa-grid">
+    <!--
     <div class="usa-width-one-whole usa-end-row">
-      <h2>{{ page.banner-heading }}</h2>
+-->      
+<div class="usa-width-whole hero-content">
+  
+<h2>{{ page.banner-heading }}</h2>
       {% if page.banner-text %}
         <p>{{ page.banner-text }}</p>
       {% endif %}
