@@ -4479,6 +4479,9 @@ input.usa-input-medium {
 }
 
 
+* {
+    box-sizing: border-box;
+}
 
 
 /* Create four equal columns that floats next to each other */
@@ -4486,7 +4489,7 @@ input.usa-input-medium {
     float: left;
     width: 25%;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    
 }
 
 /* Clear floats after the columns */
@@ -4502,7 +4505,4 @@ input.usa-input-medium {
         width: 100%;
     }
 }
-
-
-
 
