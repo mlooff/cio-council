@@ -4444,3 +4444,39 @@ input.usa-input-medium {
   top: 0;
   transition: all 0.2s ease-in-out;
 }
+
+
+
+
+.tbtable {
+  display: table;
+  width: 100%;
+  margin-bottom: 2em;
+  vertical-align: top;
+}
+
+.tbcell {
+  display: table-cell;
+  vertical-align: top;
+}
+
+.tbleft {
+  background: #ffffff;
+  vertical-align: top;
+}
+
+.tbright {
+  background: #ffffff;
+  vertical-align: top;
+  text-align: right /* only needed for the table version */
+}
+
+.tbcell div {
+  display: inline-block;
+  vertical-align: top;
+  background: #ffffff;
+  padding: 1em
+}
+
+
+
