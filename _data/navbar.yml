@@ -4,19 +4,19 @@ assigned:
         href: pages/home.md
         permalink: /
         show_in_menu: false
-        show_in_footer: false
+        show_in_footer: true
     -
-        text: About
+        text: About the CIO Council
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
-        show_in_footer: false
+        show_in_footer: true
     -
-        text: Work
+        text: Priorities
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true
-        show_in_footer: false
+        show_in_footer: true
         children:
             -
                 text: 'Microloans for Farmers'
@@ -29,14 +29,23 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Team'
+        text: 'Tools & Resources'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Project data'
+        text: 'Careers'
         href: _data/projects.yml
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: false
+    -
+        text: 'Blog'
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: true
+
+
+
+
 unassigned: []
