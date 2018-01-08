@@ -74,16 +74,11 @@ forms:
 
 footer:
   links:
-      - text: 'About the CIO Council'
+      - text: 'About'
         href: '/about/'
-      - text: 'Priorities'
+      - text: 'Work'
         href: '#'
-       - text: 'Tools & Resources'
-        href: '#'
-        - text: 'Careers'
-        href: '#'
-        - text: 'Blog'
-        href: '#'
+    
         
         
   image: /assets/img/CIO-council-Logo-silver1.png
