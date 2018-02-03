@@ -1,5 +1,5 @@
 ---
-layout: missionvision
+layout: mission-vision
 body-class: home
 permalink: /about/mission-vision/
 background-image: /assets/img/grey.background.png
