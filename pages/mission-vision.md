@@ -1,6 +1,7 @@
+---
 layout: hiringevent
 body-class: home
-permalink: /about/mission-vision/
+permalink: /about/mission-and-vision/
 background-image: /assets/img/skinny-hiring-banner-1.png
 hero-text: 
 hero-byline:
