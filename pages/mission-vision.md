@@ -1,8 +1,7 @@
----
-layout: hiringevent.html
+layout: hiringevent
 body-class: home
 permalink: /about/mission-vision/
-background-image: /assets/img/grey.background.png
+background-image: /assets/img/skinny-hiring-banner-1.png
 hero-text: 
 hero-byline:
 hero-button-text: 
