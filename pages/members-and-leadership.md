@@ -1,5 +1,5 @@
 ---
-layout: members-and-leadership.html
+layout: membersandleadership.html
 body-class: home
 permalink: /about/members-and-leadership/
 background-image: /assets/img/grey.background.png
