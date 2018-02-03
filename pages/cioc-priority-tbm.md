@@ -2,7 +2,7 @@
 layout: standard
 body-class: home
 permalink: /cioc-priority-tbm/
-background-image: /assets/img/feature-background.jpg
+background-image: /assets/img/spreadsheet.png
 hero-text: "TECHNOLOGY BUSINESS MANAGEMENT"
 hero-byline: A CIO Council Priority
 hero-button-text: 
