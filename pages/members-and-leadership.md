@@ -13,5 +13,4 @@ banner-button-text:
 banner-button-link: 
 ---
 ## 
-Content here
-
+3-Column Table of links goes here
