@@ -1,0 +1,89 @@
+---
+layout: base
+---
+
+<section>
+  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+    <div class="usa-grid">
+      <div class="usa-width-whole hero-content">
+        <h1 style="font-family: 'Poppins', sans-serif; COLOR: #FFFFFF; font-size: 30px;">{{ page.hero-text }}</h1>
+        <BR>
+        <h1 style="font-family: 'Caveat', cursive; COLOR: #FFFFFF; font-size: 60px;">{{ page.hero-byline }}</h5>
+        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--
+<section class="usa-grid usa-section">
+    <h2>Work</h2>
+    {% include projects.html %}
+</section>
+-->
+<section class="usa-grid usa-section">
+  <div class="tbtable">
+  <div class="tbcell left">
+    <div><CENTER><A HREF="cioc-priority-tbm/"><IMG SRC="assets/img/cio.priority.png" border=0 
+                                                   alt="CIO Priority - TBM" height=117 width=115></A>
+      <p class="priority_title">CIO Council Priority:<BR>
+        Technology Business Management</p>
+      <p class="priority">
+      Federal Agencies are currently at various stages of implementing TBM. The CIO Council,
+      the General Services Administration (GSA), and the Office of the Federal CIO (OFCIO) are
+      committed to guiding agency adoption of TBM.</p>
+      </CENTER>
+      </div>
+  </div>
+  <div class="tbcell right">
+    <div><CENTER>
+      <A HREF="cioc-priority-cybersecurity-awareness-month/"><IMG SRC="assets/img/shield-icon.png"  
+                           border=0 alt="CIO Priority - Cybersecurity Awareness Month" height=117 width=115></A>
+        <p class="priority_title">CIO Council Priority: Cyber<BR>
+          Security Awareness Month</p>
+        <p class="priority">
+     This October, the Federal CIO Council is proud to participate in
+     National Cyber Security Awareness Month (NCSAM), a nationwide effort
+      to make the Internet safer for everyone.</p>
+        </CENTER></div>
+  </div>
+  </div>
+
+</section>
+
+        
+        
+
+
+{% if page.banner-heading %}
+<section class="usa-section banner tagline" style="background-color: #a1b1bc;">
+  <div class="usa-grid">
+
+    <div class="usa-width-one-whole usa-end-row">
+     
+<!--
+    <div class="usa-width-whole hero-content">
+  -->
+<h2>{{ page.banner-heading }}</h2>
+      {% if page.banner-text %}
+        <p>{{ page.banner-text }}</p>
+      {% endif %}
+      {% if page.banner-button-text %}
+      <div class="center-content">
+        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endif %}
+    
+    <BR>
+      <!--
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-whole usa-end-row"></div>
+</section>
+    -->
+ {% include quick.links.html %}
+  
+  
