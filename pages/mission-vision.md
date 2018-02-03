@@ -1,5 +1,5 @@
 ---
-layout: hiringevent
+layout: missionvision
 body-class: home
 permalink: /about/mission-vision/
 background-image: /assets/img/skinny-hiring-banner-1.png
