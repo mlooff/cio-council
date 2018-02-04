@@ -22,8 +22,21 @@ layout: base
 
  
 <section class="usa-grid usa-section">
-   <img src="{{ page.bio-image-url | prepend: site.baseurl }}" alt="{{ page.bio-image-alt-text }}" align=left>
-   {{ content }}
+   <div class="tbtable">
+  <div class="tbcell left">
+    <div><CENTER>
+       <img src="{{ page.bio-image-url | prepend: site.baseurl }}" alt="{{ page.bio-image-alt-text }}" align=left>
+      </CENTER>
+      </div>
+  </div>
+  <div class="tbcell right">
+    <div>
+     {{ content }}
+  
+    </div>
+  </div>
+  </div>
+  
   
  </section>
 
