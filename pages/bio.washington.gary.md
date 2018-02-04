@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-permalink: /about/members-and-leadership/washington-gary
+permalink: /about/members-and-leadership/washington-gary/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. GARY WASHINGTON
 bio-title-text: CHIEF INFORMATION OFFICER
