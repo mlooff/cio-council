@@ -11,6 +11,8 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-## 
-3-Column Table of links goes here
+##
+[logo]: https://federalist-proxy.app.cloud.gov/site/rwuhrman/cio-council/assets/img/bio.garcia.gregory.png "Gregory Garcia"
+
+Gregory L. Garcia was selected for the Senior Executive Service in 2005. He assumed the position of the Chief Information Officer/G-6 (CIO/G-6) at the US Army Corps of Engineers on 21 February 2016. In this role, he serves as the principal advisor to the Corps Commanding General on information technology issues. He is responsible for all aspects of information resource management and information technology for the Corps.
 
