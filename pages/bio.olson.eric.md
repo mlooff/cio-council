@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-permalink: /about/members-and-leadership/mr-jason-gray/
+permalink: /about/members-and-leadership/mr-eric-olson/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. ERIC OLSON
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,
