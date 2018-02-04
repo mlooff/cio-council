@@ -6,7 +6,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. GREGORY L. GARCIA
 bio-title-text: CHIEF INFORMATION SECURITY OFFICER
 bio-agency-text: U.S. ARMY CORPS OF ENGINEERS
-bio-image-url: https://federalist-proxy.app.cloud.gov/site/rwuhrman/cio-council/assets/img/bio.garcia.gregory.png
+bio-image-url: /assets/img/bio.garcia.gregory.png
 bio-image-alt-text: Gregory Garcia
 banner-heading: 
 banner-text: 
