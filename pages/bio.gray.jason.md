@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-permalink: /about/members-and-leadership/gray-jason/
+permalink: /about/members-and-leadership/mr-jason-gray/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. JASON GRAY
 bio-title-text: CHIEF INFORMATION OFFICER,
