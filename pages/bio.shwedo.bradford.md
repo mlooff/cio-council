@@ -6,7 +6,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF THE AIR FORCE
-bio-image-url: /assets/img/bio.bio.shwedo.bradford.png
+bio-image-url: /assets/img/bio.shwedo.bradford.png
 bio-image-alt-text: LT. GEN. BRADFORD J. "B.J." SHWEDO
 bio-phone: 
 bio-email: 
