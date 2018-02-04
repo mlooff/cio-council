@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-permalink: /about/members-and-leadership/dorothy-aronson/
+permalink: /about/members-and-leadership/ms-dorothy-aronson/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. DOROTHY ARONSON
 bio-title-text: CHIEF INFORMATION OFFICER,
