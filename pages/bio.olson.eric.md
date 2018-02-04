@@ -6,7 +6,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. ERIC OLSON
 bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF TREASURY
-bio-image-url: /assets/img/bio.olson.eric.png
+bio-image-url: /assets/img/bio.olson.eric.jpg
 bio-image-alt-text: Eric Olson
 bio-phone: 
 bio-email: 
