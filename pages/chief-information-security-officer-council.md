@@ -1,5 +1,5 @@
 ---
-layout: committees-affiliates
+layout: chief-information-security-officer-council
 body-class: home
 title: Chief Information Security Officer (CISO) Council 
 permalink: /about/committees-affliates/chief-information-security-officer-council/
