@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Bruce Crawford
 permalink: /lieutenant-general-bruce-t-crawford/
 background-image: /assets/img/grey.background.png
 bio-name-text: LTG BRUCE T. CRAWFORD
