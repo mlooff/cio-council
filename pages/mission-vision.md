@@ -1,7 +1,7 @@
 ---
 layout: mission-vision
 body-class: home
-document-title: "Mission and Vision"
+title: "Mission and Vision"
 permalink: /about/mission-vision/
 background-image: /assets/img/grey.background.png
 hero-text: Mission & Vision
