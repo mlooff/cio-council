@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Swarnali Haldar
 permalink: /about/members-and-leadership/ms-swarnali-haldar/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. SWARNALI HALDAR
