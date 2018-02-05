@@ -6,7 +6,7 @@ assigned:
         show_in_menu: false
         show_in_footer: true
     -
-        text: About the CIO Council
+        text: About the CIOC
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
