@@ -2,7 +2,7 @@
 layout: committees-affiliates
 body-class: home
 title: Committees
-permalink: /about/committees-affiliates/
+permalink: /about/committees-affliates/
 background-image: /assets/img/grey.background.png
 hero-text: Committees
 hero-byline:
