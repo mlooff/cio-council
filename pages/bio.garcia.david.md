@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: David Garcia
 permalink: /about/members-and-leadership/mr-david-garcia/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DAVID GARCIA
