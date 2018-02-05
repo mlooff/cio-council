@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Margie Graves
 permalink: /about/members-and-leadership/margie-graves/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARGIE GRAVES
