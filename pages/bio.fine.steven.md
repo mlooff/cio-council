@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Steven Fine
 permalink: /about/members-and-leadership/dr-steven-fine/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. STEVEN FINE
