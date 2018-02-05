@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Victoria Hildebrand
 permalink: /about/members-and-leadership/ms-vicki-hildebrand/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. VICTORIA "VICKI" HILDEBRAND
