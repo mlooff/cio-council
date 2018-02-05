@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Dorothy Aronson
 permalink: /about/members-and-leadership/ms-dorothy-aronson/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. DOROTHY ARONSON
