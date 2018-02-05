@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Max Everett
 permalink: /about/members-and-leadership/max-everett/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. MAX EVERETT
