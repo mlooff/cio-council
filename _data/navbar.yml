@@ -6,15 +6,15 @@ assigned:
         show_in_menu: false
         show_in_footer: true
     -
-        text: About the CIOC
+        text: Priorities
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
         show_in_footer: true
     -
-        text: Priorities
-        href: pages/projects.md
-        permalink: /projects/
+        text: Initiatives
+        href: pages/cioc-priority-tbm.md
+        permalink: /cioc-priority-tbm/
         show_in_menu: true
         show_in_footer: true
         children:
@@ -29,16 +29,27 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Tools & Resources'
-        href: pages/team.md
-        permalink: /team/
+        text: 'Members'
+        href: pages/members-leadership.md
+        permalink: /about/members-leadership/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Careers'
+        text: 'About'
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: false
+    -
+        text: 'Resources'
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: false
+     -
+        text: 'Fed IT Topics'
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: false
+        
     -
         text: 'Blog'
         href: _data/projects.yml
