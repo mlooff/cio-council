@@ -35,7 +35,7 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Memebrs
+        text: Members
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: false
@@ -49,8 +49,10 @@ assigned:
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: true
-
-
-
+    -
+        text: Fed IT Topics
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: true
 
 unassigned: []
