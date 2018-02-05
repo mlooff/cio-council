@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Beth Killorian
 permalink: /about/members-and-leadership/ms-beth-anne-killoran/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. BETH ANNE KILLORAN
