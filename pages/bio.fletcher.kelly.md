@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Kelly Fletcher
 permalink: /about/members-and-leadership/dr-kelly-fletcher/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. KELLY FLETCHER
