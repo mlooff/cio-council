@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Scott Blackburn
 permalink: /about/members-and-leadership/mr-scott-blackburn/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. SCOTT BLACKBURN
