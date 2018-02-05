@@ -12,7 +12,7 @@ assigned:
         show_in_menu: true
         show_in_footer: true
     -
-        text: Priorities
+        text: Initiatives
         href: pages/projects.md
         permalink: /projects/
         show_in_menu: true
@@ -29,18 +29,23 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Tools & Resources'
+        text: 'News and Updates'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Careers'
+        text: Memebrs
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Blog'
+        text: About
+        href: _data/projects.yml
+        show_in_menu: true
+        show_in_footer: true
+    -
+        text: Resources
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: true
