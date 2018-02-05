@@ -1,13 +1,13 @@
 # Site settings
-title: Your Site Name
-description: A description of your website that will show up in search indexes and social media shares.
+title: CIO.gov
+description: Official Web Site of CIO.gov
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://federalist-modern-team-template.18f.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 iconenvelope: /assets/img/iconenvelope.png
 iconpaper: /assets/img/iconpaper.png
 feature_image: /assets/img/feature-background.jpg
-org_name: 18f
+org_name: CIO.gov
 repo_name: federalist-modern-team-template
 
 colors:
@@ -42,8 +42,8 @@ analytics:
   google:
     code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
-    agency: GSA    # Change this to your agency
-    subagency: 18F # Change this to your agency
+    agency: CIO    # Change this to your agency
+    subagency: CIO.gov # Change this to your agency
 
 defaults:
  -
