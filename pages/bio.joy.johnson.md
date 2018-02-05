@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Johnson Joy
 permalink: /about/members-and-leadership/johnson-joy/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. Johnson Joy
