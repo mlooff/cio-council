@@ -3,18 +3,18 @@ assigned:
         text: Home
         href: pages/home.md
         permalink: /
+        show_in_menu: false
+        show_in_footer: true
+    -
+        text: About the CIO Council
+        href: pages/about.md
+        permalink: /about/
         show_in_menu: true
         show_in_footer: true
     -
         text: Priorities
-        href: pages/cioc-priority-tbm.md
-        permalink: /cioc-priority-tbm/
-        show_in_menu: true
-        show_in_footer: true
-    -
-        text: Initiatives
-        href: pages/hiringevent.md
-        permalink: /hiringevent/info/
+        href: pages/projects.md
+        permalink: /projects/
         show_in_menu: true
         show_in_footer: true
         children:
@@ -29,29 +29,16 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'Members'
-        href: pages/members-leadership.md
-        permalink: /about/members-leadership/
+        text: 'Tools & Resources'
+        href: pages/team.md
+        permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
-        text: About
-        href: pages/about.md
-        permalink: /about/
-        show_in_menu: true
-        show_in_footer: false
-    -
-        text: Resources
-        href: pages/about.md
-        permalink: /about/
-        show_in_menu: true
-        show_in_footer: false
-     -
-        text: 'Fed IT Topics'
+        text: 'Careers'
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: false
-        
     -
         text: 'Blog'
         href: _data/projects.yml
