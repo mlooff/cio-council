@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Jason Gray
 permalink: /about/members-and-leadership/mr-jason-gray/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. JASON GRAY
