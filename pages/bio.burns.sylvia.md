@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Sylvia Burns
 permalink: /about/members-and-leadership/ms-sylvia-burns/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. SYLVIA BURNS
