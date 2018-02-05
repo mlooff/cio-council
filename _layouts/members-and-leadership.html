@@ -13,11 +13,28 @@ layout: base
  
 <section class="usa-grid usa-section">
  Leadership List
- {% include members-and-leadership.html %}  
+ {% include members-and-leadership.leadership.html %}    
+ </section>
+
+
+
+<section >
+  <div class="standard-unit" style="background-image: url('{{ page.background-image | prepend: site.baseurl }}'); height: 200px;">
+   <div class="usa-grid;">
+     Members
+   </div>
+  </div>
+</section>
+
+
+
+<section class="usa-grid usa-section">
+ Leadership List
+ {% include members-and-leadership.members.html %}  
   
  </section>
 
-  
+
 {% if page.banner-heading %}
 <section class="usa-section banner tagline" style="background-color: #a1b1bc;">
   <div class="usa-grid">
