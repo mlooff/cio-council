@@ -1,6 +1,7 @@
 ---
 layout: mission-vision
 body-class: home
+document-title: "Mission and Vision"
 permalink: /about/mission-vision/
 background-image: /assets/img/grey.background.png
 hero-text: Mission & Vision
@@ -12,14 +13,3 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-The U.S. CIO supports goals of greater transparency, accountability, and citizen participation in Federal Government through the use of innovative IT strategies. The U.S. CIO works to ensure information security, protect individual privacy, and save taxpayer dollars by creating a Federal Government that strategically, efficiently, and effectively uses IT to serve and protect U.S. citizens.
-
-## GOVERNING PRINCIPLES
-The U.S. CIO and the CIO Council establish standards against which the success of all agency programs can be measured, including:
-
-- monitoring the year-to-year performance improvement of Federal Government programs
-- attracting and retaining a high-performance IT workforce
-- optimizing Federal Government information resources and investments
-- aligning IT solutions with Federal enterprise business processes
-- adopting and sharing best IT management practices
-- managing risk and ensuring privacy and security
