@@ -17,17 +17,6 @@ assigned:
         permalink: /projects/
         show_in_menu: true
         show_in_footer: true
-        children:
-            -
-                text: 'Microloans for Farmers'
-                href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
-                show_in_footer: false
-            -
-                text: 'Reducing Summer Melt'
-                href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
-                show_in_footer: false
     -
         text: 'Tools & Resources'
         href: pages/team.md
@@ -39,13 +28,5 @@ assigned:
         href: _data/projects.yml
         show_in_menu: true
         show_in_footer: false
-    -
-        text: 'Blog'
-        href: _data/projects.yml
-        show_in_menu: true
-        show_in_footer: true
-
-
-
 
 unassigned: []
