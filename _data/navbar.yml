@@ -3,18 +3,18 @@ assigned:
         text: Home
         href: pages/home.md
         permalink: /
-        show_in_menu: false
+        show_in_menu: true
         show_in_footer: true
     -
         text: Priorities
-        href: pages/about.md
-        permalink: /about/
+        href: pages/cioc-priority-tbm.md
+        permalink: /cioc-priority-tbm/
         show_in_menu: true
         show_in_footer: true
     -
         text: Initiatives
-        href: pages/cioc-priority-tbm.md
-        permalink: /cioc-priority-tbm/
+        href: pages/hiringevent.md
+        permalink: /hiringevent/info/
         show_in_menu: true
         show_in_footer: true
         children:
@@ -35,13 +35,15 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'About'
-        href: _data/projects.yml
+        text: About
+        href: pages/about.md
+        permalink: /about/
         show_in_menu: true
         show_in_footer: false
     -
-        text: 'Resources'
-        href: _data/projects.yml
+        text: Resources
+        href: pages/about.md
+        permalink: /about/
         show_in_menu: true
         show_in_footer: false
      -
