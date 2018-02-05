@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Gregory Garcia
 permalink: /about/members-and-leadership/greg-garcia/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. GREGORY L. GARCIA
