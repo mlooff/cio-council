@@ -1,5 +1,5 @@
 ---
-layout: workforce-committee.html
+layout: workforce-committee
 body-class: home
 title: Workforce Committee
 permalink: /about/committees-affliates/workforce-committee/
