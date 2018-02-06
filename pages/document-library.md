@@ -2,7 +2,7 @@
 layout: document-library
 body-class: home
 title: About
-permalink: /document-library/
+permalink: /resources/document-library/
 background-image: /assets/img/grey.background.png
 hero-text: Document Library
 hero-byline:
