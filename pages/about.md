@@ -1,10 +1,10 @@
 ---
 layout: about
 body-class: home
-title: About
+title: About the Council
 permalink: /about/
 background-image: /assets/img/grey.background.png
-hero-text: About CIO.gov
+hero-text: About the Council
 hero-byline:
 hero-button-text: 
 hero-button-link: 
