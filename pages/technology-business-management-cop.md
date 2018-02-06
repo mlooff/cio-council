@@ -1,10 +1,10 @@
 ---
-layout: technology-business-management-cop
+layout: data-center-consolidation-task-force
 body-class: home
-title: Technology Business Management Community of Practice
-permalink: /about/committees-affliates/technology-business-management-cop/
+title: Data Center Consolidation Task Force (DCOI)
+permalink: /about/committees-affliates/data-center-consolidation-task-force/
 background-image: /assets/img/grey.background.png
-hero-text: Technology Business Management Community of Practice
+hero-text: Data Center Consolidation Task Force
 hero-byline:
 hero-button-text: 
 hero-button-link: 
