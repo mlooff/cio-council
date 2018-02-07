@@ -29,7 +29,7 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'News'
+        text: 'News & Updates'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
