@@ -2,7 +2,7 @@
 layout: it-shared-services
 body-class: home
 title: IT Shared Services
-permalink: /it-shared-services/
+permalink: /fed-it-topics/sustainability-transparency/it-shared-services/
 background-image: /assets/img/grey.background.png
 hero-text: IT SHARED SERVICES
 hero-byline: 
