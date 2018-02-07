@@ -3,18 +3,18 @@ assigned:
         text: Home
         href: pages/home.md
         permalink: /
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: true
     -
         text: Priorities
-        href: pages/about.md
-        permalink: /about/
+        href: pages/cioc-priority-tbm.md
+        permalink: /cio-priority-tbm/
         show_in_menu: true
         show_in_footer: true
     -
         text: Initiatives
-        href: pages/projects.md
-        permalink: /projects/
+        href: pages/hiringevent.md
+        permalink: /hiringevent/info/
         show_in_menu: true
         show_in_footer: true
         children:
@@ -29,29 +29,33 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: 'News and Updates'
+        text: 'News'
         href: pages/team.md
         permalink: /team/
         show_in_menu: true
         show_in_footer: false
     -
         text: Members
-        href: _data/projects.yml
+        href: pages/members-and-leadership.md
+        permalink: /about/members-and-leadership/
         show_in_menu: true
         show_in_footer: false
     -
         text: About
-        href: _data/projects.yml
+        href: pages/about.md
+        permalink: /about/
         show_in_menu: true
         show_in_footer: true
     -
         text: Resources
-        href: _data/projects.yml
+        href: pages/resources.md
+        permalink: /resources/
         show_in_menu: true
         show_in_footer: true
     -
         text: Fed IT Topics
-        href: _data/projects.yml
+        href: pages/fed-it-topics.md
+        permalink: /fed-it-topics/
         show_in_menu: true
         show_in_footer: true
 
