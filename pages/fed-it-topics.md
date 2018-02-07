@@ -1,10 +1,10 @@
 ---
-layout: committees-affiliates
+layout: fed-it-topics
 body-class: home
-title: Committees
-permalink: /about/committees-affliates/
+title: Federal IT Topics
+permalink: /about/fed-it-topics/
 background-image: /assets/img/grey.background.png
-hero-text: Committees
+hero-text: Fed IT Topics
 hero-byline:
 hero-button-text: 
 hero-button-link: 
