@@ -2,7 +2,7 @@
 layout: fed-it-topics
 body-class: home
 title: Federal IT Topics
-permalink: /fed-it-topics/
+permalink: /federal-it-topics/
 background-image: /assets/img/grey.background.png
 hero-text: Fed IT Topics
 hero-byline:
