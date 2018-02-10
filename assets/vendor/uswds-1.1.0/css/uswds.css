@@ -4533,12 +4533,11 @@ input.usa-input-medium {
 }
 
 .section_header {
- font-family: "'Poppins', sans-serif;" 
+ font-family: 'Poppins', sans-serif; 
  COLOR: #515151; 
  font-size: 28px; 
  align: left;
 }
-
 
 .post-date  {font-color: #ffffff; }
 
