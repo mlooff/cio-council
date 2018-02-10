@@ -2,7 +2,7 @@
 layout: chief-information-security-officer-council
 body-class: home
 title: Chief Information Security Officer (CISO) Council 
-permalink: /about/committees-affliates/chief-information-security-officer-council/
+permalink: /about/committees-affiliates/chief-information-security-officer-council/
 background-image: /assets/img/grey.background.png
 hero-text: Chief Information Security Officer (CISO) Council
 hero-byline:
