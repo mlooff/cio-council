@@ -1,7 +1,7 @@
 ---
 layout: technology-business-management-cop
 body-class: home
-title: Technology Business Management Community of Practice
+title: Technology Business Management<BR>Community of Practice
 permalink: /about/committees-affiliates/technology-business-management-cop/
 background-image: /assets/img/grey.background.png
 hero-text: Technology Business Management 
