@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: MR. DAVID SHIVE - GSA
 permalink: /about/members-and-leadership/mr-david-shive/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DAVID SHIVE
