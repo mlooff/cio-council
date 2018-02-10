@@ -4547,6 +4547,14 @@ input.usa-input-medium {
  align: left;
 }
 
+
+.icon_caption {
+ font-family: 'Poppins', sans-serif; 
+ COLOR: #0071bc; 
+ font-size: 15px; 
+}
+
+
 .post-date  {font-color: #ffffff; }
 
 .footer_links_title  { font-size: 18px; font-weight: bold; }
