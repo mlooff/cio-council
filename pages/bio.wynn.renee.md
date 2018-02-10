@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Renee P. Wynn - NASA
 permalink: /about/members-and-leadership/ms-renee-wynn/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. RENEE WYNN
