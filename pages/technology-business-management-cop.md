@@ -1,5 +1,5 @@
 ---
-layout: data-center-consolidation-task-force
+layout: technology-business-management-cop
 body-class: home
 title: Technology Business Management Community of Practice
 permalink: /about/committees-affiliates/technology-business-management-cop/
