@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Dr. John Zangardi - DHS
 permalink: /about/members-and-leadership/dr-john-zangardi/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. JOHN ZANGARDI
