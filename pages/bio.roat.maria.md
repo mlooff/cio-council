@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: MS. MARIA ROAT - SBA
 permalink: /about/members-and-leadership/ms-maria-roat/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARIA ROAT
