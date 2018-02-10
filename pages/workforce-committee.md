@@ -2,7 +2,7 @@
 layout: workforce-committee
 body-class: home
 title: Workforce Committee
-permalink: /about/committees-affliates/workforce-committee/
+permalink: /about/committees-affiliates/workforce-committee/
 background-image: /assets/img/grey.background.png
 hero-text: Workforce Commmittee
 hero-byline:
