@@ -1,6 +1,7 @@
 ---
 layout: bio
 body-class: home
+title: Mr. Rod Turk - Commerce
 permalink: /about/members-and-leadership/rod-turk/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. ROD TURK
