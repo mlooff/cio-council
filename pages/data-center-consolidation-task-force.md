@@ -1,8 +1,8 @@
 ---
-layout: data-center-consoliation-task-force
+layout: data-center-consolidation-task-force
 body-class: home
 title: Data Center Optimization Initiative Community of Practice
-permalink: /about/committees-affiliates/dcctf/
+permalink: /about/committees-affiliates/data-center-consolidation-task-force/
 background-image: /assets/img/grey.background.png
 hero-text: DATA CENTER OPTIMIZATION INITIATIVE COMMUNITY OF PRACTICE
 hero-byline:
