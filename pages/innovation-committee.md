@@ -2,7 +2,7 @@
 layout: innovation-committee
 body-class: home
 title: Innovation Committee 
-permalink: /about/committees-affliates/innovation-committee/
+permalink: /about/committees-affiliates/innovation-committee/
 background-image: /assets/img/grey.background.png
 hero-text: Innovation Committee
 hero-byline:
