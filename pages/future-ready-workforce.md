@@ -2,9 +2,9 @@
 layout: future-ready-workforce
 body-class: home
 title: Future Ready Workforce
-permalink: /agenda/moderinzation/future-ready-workforce/
+permalink: /fed-it-topics/moderinzation/future-ready-workforce/
 background-image: /assets/img/grey.background.png
-hero-text: Future Ready Workforce
+hero-text: FUTURE READY WORKFORCE
 hero-byline:
 hero-button-text: 
 hero-button-link: 
