@@ -1,5 +1,5 @@
 ---
-layout: standard
+layout: cioc-priority-tbm
 body-class: home
 permalink: /cioc-priority-tbm/
 background-image: /assets/img/spreadsheet.png
