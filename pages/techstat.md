@@ -1,7 +1,7 @@
 ---
 layout: techstat
 body-class: home
-title: TechStat
+title: TechStat2
 permalink: /fed-it-topics/sustainability-transparency/techstat/
 background-image: /assets/img/grey.background.png
 hero-text: TECHSTAT
