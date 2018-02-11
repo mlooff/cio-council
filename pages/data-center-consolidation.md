@@ -1,5 +1,5 @@
 ---
-layout: data-center-consolidation-task-force
+layout: data-center-consolidation
 body-class: home
 title: Data Center Consolidation
 permalink: /about/sustainability-transparency/data-center-consolidation/
