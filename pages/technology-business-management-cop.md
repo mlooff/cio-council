@@ -4,7 +4,7 @@ body-class: home
 title: Technology Business Management<BR>Community of Practice
 permalink: /about/committees-affiliates/technology-business-management-cop/
 background-image: /assets/img/grey.background.png
-hero-text: Technology Business Management<BR>Community of Practice 
+hero-text: Technology Business Management 
 hero-sub-text: Community of Practice
 hero-byline:
 hero-button-text: 
