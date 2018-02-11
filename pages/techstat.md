@@ -1,8 +1,8 @@
 ---
-layout: techstat
+layout: techstat2
 body-class: home
-title: TechStat2
-permalink: /fed-it-topics/sustainability-transparency/techstat/
+title: TechStat
+permalink: /fed-it-topics/sustainability-transparency/techstat2/
 background-image: /assets/img/grey.background.png
 hero-text: TECHSTAT
 hero-byline: 
