@@ -2,7 +2,7 @@
 layout: modernization
 body-class: home
 title: Modernization
-permalink: /agenda/modernization/
+permalink: /fed-it-topics/modernization/
 background-image: /assets/img/grey.background.png
 hero-text: IT MODERNIZATION
 hero-byline: PROVIDING WORLD CLASS DIGITAL SERVICES
