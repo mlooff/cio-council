@@ -2,7 +2,7 @@
 layout: data-center-consolidation
 body-class: home
 title: Data Center Consolidation
-permalink: /about/sustainability-transparency/data-center-consolidation/
+permalink: /fed-it-topics/sustainability-transparency/data-center-consolidation/
 background-image: /assets/img/grey.background.png
 hero-text: DATA CENTER CONSOLIDATION
 hero-byline:
