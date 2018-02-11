@@ -1,5 +1,5 @@
 ---
-layout: it-dashboard
+layout: tbm
 body-class: home
 title: Technology Business Management
 permalink: /fed-it-topics/sustainability-transparency/tbm/
