@@ -1,8 +1,8 @@
 ---
-layout: privacy
+layout: privacy-statement
 body-class: home
 title: About the Council
-permalink: /about/privacy/
+permalink: /about/privacy-statement/
 background-image: /assets/img/grey.background.png
 hero-text: Privacy Statement
 hero-byline:
