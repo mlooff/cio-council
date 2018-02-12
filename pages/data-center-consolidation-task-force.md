@@ -4,7 +4,7 @@ body-class: home
 title: Data Center Optimization Initiative Community of Practice
 permalink: /about/committees-affiliates/data-center-consolidation-task-force/
 background-image: /assets/img/grey.background.png
-hero-text: DATA CENTER OPTIMIZATION INITIATIVE COMMUNITY OF PRACTICE
+hero-text: DATA CENTER OPTIMIZATION INITIATIVE<BR>COMMUNITY OF PRACTICE
 hero-byline:
 hero-button-text: 
 hero-button-link: 
