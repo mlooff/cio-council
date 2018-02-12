@@ -2,9 +2,9 @@
 layout: accessibility-statement
 body-class: home
 title: Accessibility Statement
-permalink: /about/privacy-statement/
+permalink: /about/accessibility-statement/
 background-image: /assets/img/grey.background.png
-hero-text: Privacy Statement
+hero-text: Accessibility Statement
 hero-byline:
 hero-button-text: 
 hero-button-link: 
