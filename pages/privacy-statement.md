@@ -1,7 +1,7 @@
 ---
 layout: privacy-statement
 body-class: home
-title: About the Council
+title: Privacy Statement
 permalink: /about/privacy-statement/
 background-image: /assets/img/grey.background.png
 hero-text: Privacy Statement
