@@ -1,5 +1,5 @@
 ---
-layout: hiringevent
+layout: hiringevent-info
 body-class: home
 permalink: /hiringevent/info/
 background-image: /assets/img/skinny-hiring-banner-1.png
