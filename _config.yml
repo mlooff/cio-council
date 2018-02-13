@@ -82,7 +82,7 @@ footer:
     email: feedback@cio.gov
     twitter:
       - ciodotgov
-    rss: cioc
+    rss: https://federalist-proxy.app.cloud.gov/site/gsa/cio-council/data/cio.rss
   text:
  # Change to a tag line for your agency
 
