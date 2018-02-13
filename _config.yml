@@ -69,10 +69,6 @@ forms:
 
 footer:
   links:
-      - text: 'About'
-        href: '/about/'
-      - text: 'Work'
-        href: '#'
     
         
         
