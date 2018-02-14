@@ -8,7 +8,7 @@ hero-byline: Report to the President on Federal IT Modernization
 hero-button-text: Read
 hero-button-link: /2017/12/22/final-it-modernization-report/
 banner-heading: NEWS AND UPDATES
-banner-text: <A HREF="https://www.cio.gov/cioc-blog/">READ THE LATEST FROM THE CIO COMMUNITY</A>
+banner-text: <A HREF="https://www.cio.gov/2018/02/02/preliminary-results-of-the-cio-councils-government-wide-hiring-event-demonstrate-effectiveness-of-cxo-collaboration/">READ THE LATEST FROM THE CIO COMMUNITY</A>
 banner-button-text: 
 banner-button-link: 
 ---
