@@ -1,5 +1,5 @@
 ---
-layout: blog-preliminary-results-hiring-event
+layout: blog-federal-cio-council-2017-accomplishments
 body-class: home
 title: Blog - Federal CIO Council 2017 Accomplishments
 permalink: /2017/12/29/infographic-federal-cio-council-2017-accomplishments/
