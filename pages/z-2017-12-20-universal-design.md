@@ -16,6 +16,7 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
+
 <i>This blog entry by Jeyapriya Suruliyandi, was originally published on December 13, 2017 on GSA’s Section 508 blog.</I>
 
 The year is 2017. The advancement of technology, led by key players in the private sector, has introduced innovations that have made applications more accessible for people with disabilities.
