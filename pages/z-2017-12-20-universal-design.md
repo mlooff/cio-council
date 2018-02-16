@@ -1,11 +1,11 @@
 ---
 layout: blog
 body-class: home
-title: Blog - Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-blog-date: September 15, 2017
+title: Blog - Universal Design: What is it?
+blog-date: December 20, 2017
 blog-author: CIO Council Operations
-blog-title: Federal CIO Council Sponsors Federal Tech/Cyber Hiring and Recruitment Event
-permalink: /2017/09/15/federal-cio-council-sponsors-federal-techcyber-hiring-and-recruitment-event/
+blog-title: Universal Design: What is it?
+permalink: /2017/12/20/universal-design-what-is-it/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
 hero-byline:
