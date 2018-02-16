@@ -4559,5 +4559,7 @@ input.usa-input-medium {
 
 .footer_links_title  { font-size: 18px; font-weight: bold; }
 
-.footer_link {color: #ffffff;}
+.footer_links {color: #ffffff;}
+.footer_links:visited {color: #ffffff;}
+
 
