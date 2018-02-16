@@ -1,10 +1,10 @@
 ---
 layout: blog
 body-class: home
-title: Blog - Universal Design: What’s in it for Me?
+title: Blog - Universal Design - What's in it for me??
 blog-date: December 21, 2017
 blog-author: CIO Council Operations
-blog-title: Universal Design: What’s in it for Me?
+blog-title: Universal Design What’s in it for Me?
 permalink:  /2017/12/21/universal-design-whats-in-it-for-me/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
@@ -25,6 +25,9 @@ In private and public spaces,the role of the CIO is morphing in line with changi
 A recent survey conducted by the National Association of State Chief Information Officers (NASCIO) highlighted that an overwhelming 78 percent of respondents said the CIO is responsible for leading  or participating in policy setting when it comes to digital services. CIOs have the power to shape IT accessibility policy in the digital services conversation.
 
 For the CIO, prioritizing accessibility and Universal Design will instill a process where tools are designed with the user experience at the forefront, enabling agencies to build economical, innovative and empowering solutions.
+
+<img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/var/www/html/sites/www/app/wordpress/wp-content/blogs.dir/1151/files/2017/12/StateCIO-FactFigure-copy_Updated-300x293.png">
+
 
 ##Chief Acquisition Officers
 
