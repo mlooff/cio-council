@@ -33,12 +33,12 @@ You can read the SOFIT report <A HREF="https://s3.amazonaws.com/sitesusa/wp-cont
 Links to specific portions of the report are below.
 1. <A HREF="/assets/files/sofit/01.introduction.pdf">Introduction and Preface</A>
 2. Policy Papers
--<A HREF="/assets/files/sofit/02.01.sofit.mgmt.oversight.pdf">Management and Oversight of IT</A>
--<A HREF="/assets/files/sofit/02.02.sofit.it.infrastrucutre.modernization.pdf">IT Infrastructure Modernization</A>
--<A HREF="/assets/files/sofit/02.03.sofit.open.govt.open.data.pdf">Open Government and Open Data</A>
--<A HREF="/assets/files/sofit/02.04.shared.services.pdf">Federal Shared Services</A>
--<A HREF="/assets/files/sofit/02.05.cybersecurity.pdf">Cybersecurity</A>
--<A HREF="/assets/files/sofit/02.06.acquisition.pdf">IT Acquisition and Contracts Management</A>
+  1. <A HREF="/assets/files/sofit/02.01.sofit.mgmt.oversight.pdf">Management and Oversight of IT</A>
+  2. <A HREF="/assets/files/sofit/02.02.sofit.it.infrastrucutre.modernization.pdf">IT Infrastructure Modernization</A>
+  3. <A HREF="/assets/files/sofit/02.03.sofit.open.govt.open.data.pdf">Open Government and Open Data</A>
+  4. <A HREF="/assets/files/sofit/02.04.shared.services.pdf">Federal Shared Services</A>
+  5. <A HREF="/assets/files/sofit/02.05.cybersecurity.pdf">Cybersecurity</A>
+  6. <A HREF="/assets/files/sofit/02.06.acquisition.pdf">IT Acquisition and Contracts Management</A>
 3.<A HREF="/assets/files/sofit/03.recommendations.pdf">Recommendations</A>
 
 
