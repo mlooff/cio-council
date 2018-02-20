@@ -39,7 +39,7 @@ Links to specific portions of the report are below.
     4. <A HREF="/assets/files/sofit/02.04.shared.services.pdf">Federal Shared Services</A>
     5. <A HREF="/assets/files/sofit/02.05.cybersecurity.pdf">Cybersecurity</A><BR>
     6.<A HREF="/assets/files/sofit/02.06.acquisition.pdf">IT Acquisition and Contracts Management</A><BR>
-3.<A HREF="/assets/files/sofit/03.recommendations">Recommendations</A>
+3.<A HREF="/assets/files/sofit/03.recommendations.pdf">Recommendations</A>
 
 
 
