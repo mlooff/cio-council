@@ -37,9 +37,9 @@ Links to specific portions of the report are below.
     2. <A HREF="/assets/files/sofit/02.02.sofit.it.infrastrucutre.modernization.pdf">IT Infrastructure Modernization</A>
     3. <A HREF="/assets/files/sofit/02.03.sofit.open.govt.open.data.pdf">Open Government and Open Data</A>
     4. <A HREF="/assets/files/sofit/02.04.shared.services.pdf">Federal Shared Services</A>
-    5. <A HREF="/assets/files/sofit/02.05.cybersecurity.pdf">Cybersecurity</A>
-    6.<A HREF="/assets/files/sofit/02.06.acquisition.pdf">IT Acquisition and Contracts Management</A>
-3.<A HREF="/assets/files/sofit/03.sofit.recommendations">Recommendations</A>
+    5. <A HREF="/assets/files/sofit/02.05.cybersecurity.pdf">Cybersecurity</A><BR>
+    6.<A HREF="/assets/files/sofit/02.06.acquisition.pdf">IT Acquisition and Contracts Management</A><BR>
+3.<A HREF="/assets/files/sofit/03.recommendations">Recommendations</A>
 
 
 
