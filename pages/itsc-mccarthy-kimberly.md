@@ -1,7 +1,7 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 Problem Description: Kimberly McCarthy
+title: IT Solutions Challenge 2015 Problem Description - Kimberly McCarthy
 blog-date: May 13, 2015
 blog-author: Kimberly McCarthy
 blog-title: IT Solutions Challenge 2015 Problem Description - Kimberly McCarthy
