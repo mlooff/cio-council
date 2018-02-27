@@ -1,13 +1,13 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 First Impressions: Edgar Pedroza
+title: IT Solutions Challenge 2015 First Impressions - Edgar Pedroza
 blog-date: April 23, 2015
 blog-author: Edgar Pedroza
-blog-title:  IT Solutions Challenge 2015 First Impressions: Edgar Pedroza
+blog-title:  IT Solutions Challenge 2015 First Impressions - Edgar Pedroza
 permalink: /2015/04/23/it-solutions-challenge-2015-first-impressions-edgar-pedroza/
 background-image: /assets/img/grey.background.png
-hero-text:  IT Solutions Challenge 2015: Edgar Pedroza
+hero-text:  IT Solutions Challenge 2015 - Edgar Pedroza
 hero-byline:
 hero-button-text: 
 hero-button-link: 
