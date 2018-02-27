@@ -1,13 +1,13 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 Problem Description: Lori Alfred
+title: IT Solutions Challenge 2015 Problem Description - Lori Alfred
 blog-date: May 15, 2015
 blog-author: Lori Alfred
-blog-title:  IT Solutions Challenge 2015 Problem Description: Lori Alfred
+blog-title:  IT Solutions Challenge 2015 Problem Description - Lori Alfred
 permalink: /2015/05/15/it-solutions-challenge-2015-problem-description-lori-alfred/
 background-image: /assets/img/grey.background.png
-hero-text:  IT Solutions Challenge 2015 Problem Description: Lori Alfred
+hero-text:  IT Solutions Challenge 2015 Problem Description - Lori Alfred
 hero-byline:
 hero-button-text: 
 hero-button-link: 
