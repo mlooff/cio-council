@@ -5,7 +5,7 @@ title: IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
 blog-date: April 22, 2015
 blog-author: Jeremy Greenland
 blog-title: IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
-permalink:  /2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-inez-maguire/
+permalink:  /2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-greenland-jeremy/
 background-image: /assets/img/grey.background.png
 hero-text:  IT Solutions Challenge 2015 - Jeremy Greenland
 hero-byline:
