@@ -1,13 +1,13 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 First Impressions: Tonya Eaton
+title: IT Solutions Challenge 2015 First Impressions - Tonya Eaton
 blog-date: April 23, 2015
 blog-author: Tonya Eaton
-blog-title: IT Solutions Challenge 2015 First Impressions: Tonya Eaton
+blog-title: IT Solutions Challenge 2015 First Impressions - Tonya Eaton
 permalink: /2015/04/23/it-solutions-challenge-2015-first-impressions-tonya-eaton/
 background-image: /assets/img/grey.background.png
-hero-text:  IT Solutions Challenge 2015 First Impressions: Tonya Eaton
+hero-text:  IT Solutions Challenge 2015 First Impressions - Tonya Eaton
 hero-byline:
 hero-button-text: 
 hero-button-link: 
