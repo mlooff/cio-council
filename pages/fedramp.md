@@ -1,5 +1,5 @@
 ---
-layout: cloud
+layout: fedramp
 body-class: home
 title: FedRAMP
 permalink: /agenda/cybersecurity/fedramp/
