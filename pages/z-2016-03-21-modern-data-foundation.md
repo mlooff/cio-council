@@ -17,7 +17,7 @@ banner-button-text:
 banner-button-link: 
 ---
 <BR>
-<I>This is the 9th in a series describing how the Social Security Administration is working towards a more
+<I>This is the 4th in a series describing how the Social Security Administration is working towards a more
 modern IT infrastructure. </I><BR>
 *<A HREF="https://www.cio.gov/2015/12/10/modernizing-federal-it-part-1-catching-up-and-jumping-ahead/">Part 1: Catching Up and Jumping Ahead</A><BR>
 *<A HREF="https://www.cio.gov/2016/01/19/modernizing-federal-it-part-2-the-gravity-of-ip/">Part 2: The Gravity of Inetellectual Property</A><BR>
