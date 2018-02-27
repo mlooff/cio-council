@@ -4,7 +4,7 @@ body-class: home
 title: Blog - Why I’m Joining the Technology Transformation  Service
 blog-date: November 4, 2016
 blog-author: CIO Council Operations		
-blog-title:Why I’m Joining the Technology Transformation  Service
+blog-title: Why I’m Joining the Technology Transformation  Service
 permalink: /2016/11/04/why-im-joining-the-technology-transformation-service/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
