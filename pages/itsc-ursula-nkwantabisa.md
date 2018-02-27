@@ -1,10 +1,10 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 Problem Description: Ursula Nkwantabisa
+title: IT Solutions Challenge 2015 Problem Description - Ursula Nkwantabisa
 blog-date: May 18, 2015
 blog-author: Ursula Nkwantabisa
-blog-title:  IT Solutions Challenge 2015 Problem Description: Ursula Nkwantabisa
+blog-title:  IT Solutions Challenge 2015 Problem Description - Ursula Nkwantabisa
 permalink: /2015/05/18/it-solutions-challenge-2015-problem-description-ursula-nkwantabisa/
 background-image: /assets/img/grey.background.png
 hero-text:  IT Solutions Challenge 2015 - Ursula Nkwantabisa
