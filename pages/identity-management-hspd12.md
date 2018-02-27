@@ -1,5 +1,5 @@
 ---
-layout: identity-management-hspd12
+layout: hspd12
 body-class: home
 title: Identity Management (HSPD-12)
 permalink: /agenda/cybersecurity/identity-management-hspd-12/
