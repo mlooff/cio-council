@@ -1,10 +1,10 @@
 ---
 layout: blog
 body-class: home
-title: IT Solutions Challenge 2015 First Impressions: Gibran Mills
+title: IT Solutions Challenge 2015 First Impressions - Gibran Mills
 blog-date: April 30, 2015
 blog-author: Gibran Mills
-blog-title:  IT Solutions Challenge 2015 First Impressions: Gibran Mills
+blog-title:  IT Solutions Challenge 2015 First Impressions - Gibran Mills
 permalink: /2015/04/30/it-solutions-challenge-2015-first-impressions-gibran-mills/
 background-image: /assets/img/grey.background.png
 hero-text:  IT Solutions Challenge 2015 - Gibran Mills
