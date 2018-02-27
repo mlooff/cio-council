@@ -1,7 +1,7 @@
 ---
 layout: blog
 body-class: home
-title:IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
+title: IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
 blog-date: April 22, 2015
 blog-author: Jeremy Greenland
 blog-title: IT Solutions Challenge 2015 First Impressions - Jeremy Greenland
