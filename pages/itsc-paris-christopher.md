@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: IT Solutions Challenge 2015 Problem Description - Christopher Paris
 blog-date: May 14, 2015
-blog-author: Lori Zimet
+blog-author: Christopher Paris
 blog-title: IT Solutions Challenge 2015 Problem Description - Christopher Paris
 permalink: /2015/05/14/it-solutions-challenge-2015-problem-description-christopher-paris/
 background-image: /assets/img/grey.background.png
