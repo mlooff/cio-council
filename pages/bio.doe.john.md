@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MR. JOHN DOE
 bio-title-text: CHIEF INFORMATION OFFICER
 bio-agency-text: U.S. AGENCY
-bio-image-url: /assets/img/bio.washington.gary.png
+bio-image-url: /assets/img/bio.doe.john.png
 bio-image-alt-text: John Doe
 banner-heading: 
 banner-text: 
