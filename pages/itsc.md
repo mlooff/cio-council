@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: IT Solutions Challenge 2015
 blog-date: May 14, 2015
-blog-author: Christopher Paris
+blog-author: CIO Council
 blog-title: IT Solutions Challenge 2015 
 permalink: /fed-it-topics/modernization/future-ready-workforce/itsc/
 background-image: /assets/img/grey.background.png
