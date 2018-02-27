@@ -23,28 +23,28 @@ The CIO Council’s Workforce Committee and the Chief Acquisition Officers Counc
 Teams work with mentors to assist in brainstorming sessions, problem identification, workplan development, and execution. Each team will also have access to subject matter experts who can provide feedback and expertise as they work to develop solutions. In the fall, teams will present their solutions and work with IT leaders to discuss next steps on implementing these solutions across the Federal Government.
 
 
-Team 1
+Team 1<BR>
 <A HREF="/2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-inez-maguire/">IT Solutions Challenge 2015 Problem Description: Inez Maguire</A>
+<BR><BR>
+Team 2<BR>
+<A HREF="/2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-inez-maguire/">IT Solutions Challenge 2015 First Impressions: Jeremy Greenland</A><BR>
+<A HREF="/2015/05/13/it-solutions-challenge-2015-problem-description-kimberly-mccarthy/">IT Solutions Challenge 2015 Problem Description: Kimberly McCarthy</A><BR>
+  <BR>
 
-Team 2
-<A HREF="/2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-inez-maguire/">IT Solutions Challenge 2015 First Impressions: Jeremy Greenland</A>
-<A HREF="/2015/05/13/it-solutions-challenge-2015-problem-description-kimberly-mccarthy/">IT Solutions Challenge 2015 Problem Description: Kimberly McCarthy</A>
+Team 3<BR>
+<A HREF="/2015/04/24/it-solutions-challenge-2015-first-impressions-lori-zimet/">IT Solutions Challenge 2015 First Impressions: Lori Zimet</A><BR>
+<A HREF="/2015/05/14/it-solutions-challenge-2015-problem-description-christopher-paris/">IT Solutions Challenge 2015 Problem Description: Christopher Paris</A><BR><BR>
 
-Team 3
-<A HREF="/2015/04/24/it-solutions-challenge-2015-first-impressions-lori-zimet/">IT Solutions Challenge 2015 First Impressions: Lori Zimet</A>
-<A HREF="/2015/05/14/it-solutions-challenge-2015-problem-description-christopher-paris/">IT Solutions Challenge 2015 Problem Description: Christopher Paris</A>
+Team 3<BR>
+<A HREF="/2015/04/23/it-solutions-challenge-2015-first-impressions-tonya-eaton/">IT Solutions Challenge 2015 First Impressions: Tonya Eaton</A><BR><BR>
 
-Team 3
-<A HREF="/2015/04/23/it-solutions-challenge-2015-first-impressions-tonya-eaton/">IT Solutions Challenge 2015 First Impressions: Tonya Eaton</A>
+Team 4<BR>
+<A HREF="/2015/04/30/it-solutions-challenge-2015-first-impressions-gibran-mills/">IT Solutions Challenge 2015 First Impressions: Gibran Mills</A><BR>
+<A HREF="/2015/05/15/it-solutions-challenge-2015-problem-description-lori-alfred/">IT Solutions Challenge 2015 Problem Description: Lori Alfred</A><BR><BR>
 
-Team 4
-<A HREF="/2015/04/30/it-solutions-challenge-2015-first-impressions-gibran-mills/">IT Solutions Challenge 2015 First Impressions: Gibran Mills</A>
-<A HREF="/2015/05/15/it-solutions-challenge-2015-problem-description-lori-alfred/">IT Solutions Challenge 2015 Problem Description: Lori Alfred</A>
-
-Team 5
-<A HREF="/2015/04/23/it-solutions-challenge-2015-first-impressions-edgar-pedroza/">IT Solutions Challenge 2015 First Impressions: Edgar Pedroza</A>
-<A HREF="/2015/05/18/it-solutions-challenge-2015-problem-description-ursula-nkwantabisa/">IT Solutions Challenge 2015 Problem Description: Ursula Nkwantabisa</A>
-
+Team 5<BR>
+<A HREF="/2015/04/23/it-solutions-challenge-2015-first-impressions-edgar-pedroza/">IT Solutions Challenge 2015 First Impressions: Edgar Pedroza</A><BR>
+<A HREF="/2015/05/18/it-solutions-challenge-2015-problem-description-ursula-nkwantabisa/">IT Solutions Challenge 2015 Problem Description: Ursula Nkwantabisa</A><BR><BR>
 
 
 
