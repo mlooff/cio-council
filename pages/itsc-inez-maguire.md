@@ -4,7 +4,7 @@ body-class: home
 title: IT Solutions Challenge 2015 Expert Panel Feedback - Inez Maguire
 blog-date: May 20, 2015
 blog-author: Inez Maguire
-blog-title: IT Solutions Challenge 2015 Problem Description: Inez Maguire
+blog-title: IT Solutions Challenge 2015 Problem Description - Inez Maguire
 permalink:  /2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-inez-maguire/
 background-image: /assets/img/grey.background.png
 hero-text:  IT Solutions Challenge 2015 - Inez Maguire
