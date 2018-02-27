@@ -7,7 +7,7 @@ blog-author: Joshua Brightwell
 blog-title: IT Solutions Challenge 2015 Expert Panel Feedback - Joshua Brightwell
 permalink:  /2015/07/21/it-solutions-challenge-2015-expert-panel-feedback-joshua-brightwell/
 background-image: /assets/img/grey.background.png
-hero-text:  IT Solutions Challenge 2015: Joshua Brightwell
+hero-text:  IT Solutions Challenge 2015 - Joshua Brightwell
 hero-byline:
 hero-button-text: 
 hero-button-link: 
