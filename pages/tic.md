@@ -1,5 +1,5 @@
 ---
-layout: hspd12
+layout: tic
 body-class: home
 title: Trusted Internet Connection
 permalink: /agenda/cybersecurity/tic/
