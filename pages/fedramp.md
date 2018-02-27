@@ -2,7 +2,7 @@
 layout: fedramp
 body-class: home
 title: FedRAMP
-permalink: /agenda/cybersecurity/fedramp2/
+permalink: /agenda/cybersecurity/fedramp/
 background-image: /assets/img/grey.background.png
 hero-text: FEDRAMP
 hero-byline: 
