@@ -14,7 +14,6 @@ bio-email:  fine.steven@epa.gov
 banner-heading: 
 banner-text: 
 banner-button-text: 
-banner-button-link: 
 ---
 Dr. Steven Fine serves as the Principal Deputy Assistant Administrator (PDAA) of the United States Environmental Protection Agency’s (EPA) Office of Environmental Information and as EPA’s Deputy Chief Information Officer (CIO). He also currently serves as the Acting CIO of the EPA. Steve joined the EPA from the National Oceanic and Atmospheric Administration (NOAA), where he served in NOAA Research as Deputy Assistant Administrator (DAA) for Laboratories and Cooperative Institutes since 2013. As DAA, Steve oversaw laboratories that improve environmental predictions and stewardship through research and development (R&D) related to the oceans, Great Lakes, and the atmosphere. He also twice served as the acting DAA for Programs and Administration in NOAA Research, overseeing climate, ocean, and weather research grant programs, as well as budget, human resources, information technology, and other administrative activities. In addition, Steve led the Executive Oversight Board for NOAA’s RESTORE Science Program, which supports long-term sustainability of the Gulf of Mexico ecosystem.
 
