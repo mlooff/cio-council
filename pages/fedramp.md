@@ -1,5 +1,5 @@
 ---
-layout: fedramp
+layout: cloud
 body-class: home
 title: FedRAMP
 permalink: /agenda/cybersecurity/fedramp/
@@ -13,3 +13,4 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
+
