@@ -5,7 +5,7 @@ title: Steven Fine
 permalink: /about/members-and-leadership/dr-steven-fine/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. STEVEN FINE
-bio-title-text: CHIEF INFORMATION OFFICER,
+bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: Environmental Protection Agency
 bio-image-url: /assets/img/bio.fine.steven.png
 bio-image-alt-text: Dr. Steven Fine
