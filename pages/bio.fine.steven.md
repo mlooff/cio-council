@@ -6,7 +6,7 @@ permalink: /about/members-and-leadership/dr-steven-fine/
 background-image: /assets/img/grey.background.png
 bio-name-text: DR. STEVEN FINE
 bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: U.S. DEPARTMENT OF ENERGY
+bio-agency-text: Environmental Protection Agency
 bio-image-url: /assets/img/bio.fine.steven.png
 bio-image-alt-text: Dr. Steven Fine
 bio-phone: 202-564-6665
