@@ -4,7 +4,7 @@ body-class: home
 title: Women in Federal IT and Cyber
 permalink: /event-women-in-federal-it-and-cyber/
 background-image: /assets/img/event-women-in-federal-it-and-cyber.png
-hero-text: Women in Federal IT and Cyber
+hero-text:
 hero-byline:
 hero-button-text: 
 hero-button-link: 
