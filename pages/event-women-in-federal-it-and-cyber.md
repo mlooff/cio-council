@@ -3,7 +3,7 @@ layout: event-women-in-federal-it-and-cyber
 body-class: home
 title: Women in Federal IT and Cyber
 permalink: /event-women-in-federal-it-and-cyber/
-background-image: /assets/img/WinIT Page_ Women in Federal IT & Cyber Save the Date_1.png
+background-image: /assets/img/event.WinIT_Cyber SDate.png
 hero-text:
 hero-byline:
 hero-button-text: 
