@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/Homepage_WomeninFederalITCyberSavetheDate.png
+hero-image: /assets/img/Homepage_ WomeninFederalITCyberSavetheDate.png
 hero-text: 
 hero-byline: 
 hero-button-text: Read
