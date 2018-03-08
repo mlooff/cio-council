@@ -1,3 +1,23 @@
+---
+layout: blog
+body-class: home
+title: Women in IT Speakers
+blog-date: March 8, 2017
+blog-author: CIO Council Operations
+blog-title: Women in IT Speakers
+permalink: /speakers-table/
+background-image: /assets/img/grey.background.png
+hero-text:  
+hero-byline:
+hero-button-text: 
+hero-button-link: 
+banner-heading: 
+banner-text: 
+banner-button-text: 
+banner-button-link: 
+---
+
+
 <img src="C:\Users\jamestgearheart\Downloads\Copy of Copy of Women in Federal IT & Cyber Save the Date.png" style="padding-left:250px;padding-bottom:60px;align="center";>
 
 <table align="center">
