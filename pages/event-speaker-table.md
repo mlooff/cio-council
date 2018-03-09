@@ -21,9 +21,8 @@ banner-button-link:
 
 <table>
 <tr style="text-align: center;">
-  <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_website.png"><br>Suzette Kent <br> Federal CIO</center></td>
-  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></center></td> <br>
-  <br><tr><td align="right">Suzette Kent <br> Federal CIO</td></tr>
+  <td "align=center"><img src="/assets/img/event.winit.SuzetteKent_website.png"><br>Suzette Kent <br> Federal CIO</center></td>
+  <td "align=center"><img src="/assets/img/event.winit.MargieGraves_circle.png"><br><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></td> <br>
 </tr>
 </table>
 
