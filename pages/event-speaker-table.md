@@ -22,7 +22,7 @@ banner-button-link:
 <table>
 <tr>
   <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_website.png"><br>Suzette Kent <br> Federal CIO</td>
-  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br>Margie Graves <br> Deputy Federal CIO</td>
+  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></td>
 </tr>
 </table>
 
