@@ -20,7 +20,7 @@ banner-button-link:
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
 <table align="center">
-<tr style="text-align:center;">
+<tr style="align:center;">
   <td><img src="/assets/img/event.winit.SuzetteKent_original.jpg"><br>Suzette Kent, Federal CIO</td>
   <td>Margie Graves, Deputy Federal CIO</td>
 </tr>
