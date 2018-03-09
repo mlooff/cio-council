@@ -28,13 +28,13 @@ banner-button-link:
 <br>
 <table>
   <tr>
-    <td>Sylvia Burns, CIO, Dept. of Interior CIO</td>
-    <td>Jason Gray, CIO, Dept. of EducationCIO</td>
-    <td>Beth Killoran, CIO, Dept. of Health and Human Services/td>
+    <td>Sylvia Burns, CIO, Dept. of Interior</td>
+    <td>Jason Gray, CIO, Dept. of Education</td>
+    <td>Beth Killoran, CIO, Dept. of Health and Human Services</td>
   </tr>
   <tr>
-    <td>Suzette Kent, Federal CIO</td>
-    <td>Margie Graves, Deputy Federal CIO</td>
-    <td>Margie Graves, Deputy Federal CIO</td>
+    <td>Maria Roat, CIO, SBA</td>
+    <td>Gary Washington, CIO, USDA</td>
+    <td>Renee Wynn, CIO, NASA</td>
   </tr>
 </table>
