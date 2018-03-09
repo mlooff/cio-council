@@ -19,7 +19,7 @@ banner-button-link:
 
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
-<table>
+<table align="center">
 <tr style="text-align:center;">
   <td>Suzette Kent, Federal CIO</td>
   <td>Margie Graves, Deputy Federal CIO</td>
@@ -28,13 +28,13 @@ banner-button-link:
 
 <br>
 
-<table>
+<table align="center">
   <tr style="text-align:center;">
     <td>Sylvia Burns, CIO, Dept. of Interior</td>
     <td>Jason Gray, CIO, Dept. of Education</td>
     <td>Beth Killoran, CIO, Dept. of Health and Human Services</td>
   </tr>
-  <tr>
+  <tr style="text-align:center;">
     <td>Maria Roat, CIO, SBA</td>
     <td>Gary Washington, CIO, USDA</td>
     <td>Renee Wynn, CIO, NASA</td>
@@ -43,7 +43,7 @@ banner-button-link:
 
 <br>
 
-<table>
+<table align="center">
 <tr style="text-align:center;">
   <td>Joanne Collins-Smee, U.S. General Services Administration</td>
   <td>Dr. Davina Pruitt-Mentle, NIST</td>
