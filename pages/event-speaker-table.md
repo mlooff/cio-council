@@ -20,11 +20,16 @@ banner-button-link:
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
 <table>
-<tr>
-  <td><img src="/assets/img/event.winit.SuzetteKent_website.png"><br><center>Suzette Kent <br> Federal CIO<center></td>
-  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></td></center><br>
-</tr>
+  <tr>
+    <td><img src="/assets/img/event.winit.SuzetteKent_website.png"><br><center>Suzette Kent <br> Federal CIO<center></td>
+  </tr>
 </table>
+
+
+  
+  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></td></center><br>
+
+
 
 <br>
 
