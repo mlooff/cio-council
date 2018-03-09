@@ -21,8 +21,8 @@ banner-button-link:
 
 <table>
 <tr>
-  <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_original.jpg"><br>Suzette Kent <br> Federal CIO</td>
-  <td><img src="/assets/img/event.winit.MargieGraves_original.jpg"><br>Margie Graves <br> Deputy Federal CIO</td>
+  <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_website.png"><br>Suzette Kent <br> Federal CIO</td>
+  <td><img src="/assets/img/event.winit.MargieGraves_circle.png"><br>Margie Graves <br> Deputy Federal CIO</td>
 </tr>
 </table>
 
@@ -30,14 +30,14 @@ banner-button-link:
 
 <table align="center">
   <tr style="text-align:center;">
-    <td><img src="/assets/img/event.winit.sylviaburns_original.jpg"><br>Sylvia Burns <br> CIO <br> Dept. of Interior</td>
-    <td><!--img src="/assets/img/"--><br>Jason Gray <br> CIO <br> Dept. of Education</td>
-    <td><img src="/assets/img/event.winit.beth-killoran_original.jpg"><br>Beth Killoran <br> CIO <br> Dept. of Health and Human Services</td>
+    <td><img src="/assets/img/event.winit.sylviaburns_circle.png"><br>Sylvia Burns <br> CIO <br> Dept. of Interior</td>
+    <td><img src="/assets/img/event.winit.JasonGray_circle.png"><br>Jason Gray <br> CIO <br> Dept. of Education</td>
+    <td><img src="/assets/img/event.winit.beth-killoran_circle.png"><br>Beth Killoran <br> CIO <br> Dept. of Health and Human Services</td>
   </tr>
   <tr style="text-align:center;">
-    <td><img src="/assets/img/event.winit.maria-roat_original.jpg"><br>Maria Roat <br> CIO <br> SBA</td>
-    <td><img src="/assets/img/event.winit.gary_washington_original.jpg"><br>Gary Washington <br> CIO <br> USDA</td>
-    <td><img src="/assets/img/event.winit.renee-wynn_original.jpg"><br>Renee Wynn <br> CIO <br> NASA</td>
+    <td><img src="/assets/img/event.winit.maria-roat_circle.png"><br>Maria Roat <br> CIO <br> SBA</td>
+    <td><img src="/assets/img/event.winit.gary_washington_circle.png"><br>Gary Washington <br> CIO <br> USDA</td>
+    <td><img src="/assets/img/event.winit.renee-wynn_circle.png"><br>Renee Wynn <br> CIO <br> NASA</td>
   </tr>
 </table>
 
