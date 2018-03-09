@@ -28,7 +28,7 @@ banner-button-link:
 
 <br>
 
-<table align>
+<table>
   <tr style="text-align:center;">
     <td><!--img src="/assets/img/event.winit.sylviaburns_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
     <td><!--img src="/assets/img/event.winit.JasonGray_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
@@ -43,9 +43,9 @@ banner-button-link:
 
 <br>
 
-<!--table align="center">
+<table align="center">
 <tr style="text-align:center;">
-  <td><!--img src="/assets/img/event.winit.MargieGraves_original"--><!--br><center>Joanne Collins-Smee, U.S. General Services Administration</center></td>
-  <td><img src="/assets/img/event.davina_pruitt-mentl_original.jpg"><br><center>Dr. Davina Pruitt-Mentle, NIST</center></td>
+  <td><!--img src="/assets/img/event.winit.MargieGraves_original"--><br><center>Joanne Collins-Smee, U.S. General Services Administration</center></td>
+  <td style="align:center"><img src="/assets/img/event.davina_pruitt-mentl_original.jpg"><br>Dr. Davina Pruitt-Mentle, NIST</td>
 </tr>
-</table-->
+</table>
