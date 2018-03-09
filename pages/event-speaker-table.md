@@ -21,7 +21,7 @@ banner-button-link:
 
 <table align="center">
 <tr style="text-align:center;">
-  <td><img src="{{include.event.winitSuzetteKent_original.jpg}}"><br>Suzette Kent, Federal CIO</td>
+  <td><img src="/assets/img/event.winit.SuzetteKent_original.jpg"><br>Suzette Kent, Federal CIO</td>
   <td>Margie Graves, Deputy Federal CIO</td>
 </tr>
 </table>
