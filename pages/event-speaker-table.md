@@ -26,26 +26,20 @@ banner-button-link:
   </tr>
 </table>
 
-
-  
- 
-
-
-
 <br>
 
-<!--table align="center">
+<table align>
   <tr style="text-align:center;">
-    <td><img src="/assets/img/event.winit.sylviaburns_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
-    <td><img src="/assets/img/event.winit.JasonGray_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
-    <td><img src="/assets/img/event.winit.beth-killoran_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> Dept. of Health and Human Services</a></center></td>
+    <td><!--img src="/assets/img/event.winit.sylviaburns_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
+    <td><!--img src="/assets/img/event.winit.JasonGray_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
+    <td><!--img src="/assets/img/event.winit.beth-killoran_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> Dept. of Health and Human Services</a></center></td>
   </tr>
   <tr style="text-align:center;">
-    <td><img src="/assets/img/event.winit.maria-roat_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> CIO <br> SBA</a></center></td>
-    <td><img src="/assets/img/event.winit.gary_washington_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington <br> CIO <br> USDA</a></center></td>
-    <td><img src="/assets/img/event.winit.renee-wynn_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td>
+    <td><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> CIO <br> SBA</a></center></td>
+    <td><!--img src="/assets/img/event.winit.gary_washington_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington <br> CIO <br> USDA</a></center></td>
+    <td><!--img src="/assets/img/event.winit.renee-wynn_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td>
   </tr>
-</table-->
+</table>
 
 <br>
 
