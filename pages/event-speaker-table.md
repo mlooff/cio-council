@@ -21,8 +21,8 @@ banner-button-link:
 
 <table>
 <tr>
-  <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_original.jpg"><br>Suzette Kent, Federal CIO</td>
-  <td>Margie Graves, Deputy Federal CIO</td>
+  <td style="text-align:center;"><img src="/assets/img/event.winit.SuzetteKent_original.jpg"><br>Suzette Kent <br> Federal CIO</td>
+  <td><img src="/assets/img/event.winit.MargieGraves_original"><br>Margie Graves <br> Deputy Federal CIO</td>
 </tr>
 </table>
 
@@ -30,14 +30,14 @@ banner-button-link:
 
 <table align="center">
   <tr style="text-align:center;">
-    <td>Sylvia Burns, CIO, Dept. of Interior</td>
-    <td>Jason Gray, CIO, Dept. of Education</td>
-    <td>Beth Killoran, CIO, Dept. of Health and Human Services</td>
+    <td><img src="/assets/img/event.winit.sylviaburns_original"><br>Sylvia Burns <br> CIO <br> Dept. of Interior</td>
+    <td><!--img src="/assets/img/"--><br>Jason Gray <br> CIO <br> Dept. of Education</td>
+    <td><img src="/assets/img/event.winit.beth-killoran_original"><br>Beth Killoran <br> CIO <br> Dept. of Health and Human Services</td>
   </tr>
   <tr style="text-align:center;">
-    <td>Maria Roat, CIO, SBA</td>
-    <td>Gary Washington, CIO, USDA</td>
-    <td>Renee Wynn, CIO, NASA</td>
+    <td><img src="/assets/img/event.winit.maria-roat_original"><br>Maria Roat <br> CIO <br> SBA</td>
+    <td><img src="/assets/img/event.winit.gary_washington_original"><br>Gary Washington <br> CIO <br> USDA</td>
+    <td><img src="/assets/img/event.winit.renee-wynn_originall"><br>Renee Wynn <br> CIO <br> NASA</td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@ banner-button-link:
 
 <table align="center">
 <tr style="text-align:center;">
-  <td>Joanne Collins-Smee, U.S. General Services Administration</td>
-  <td>Dr. Davina Pruitt-Mentle, NIST</td>
+  <td><!--img src="/assets/img/event.winit.MargieGraves_original"--><br>Joanne Collins-Smee, U.S. General Services Administration</td>
+  <td><img src="/assets/img/event.davina_pruitt-mentl_originall"><br>Dr. Davina Pruitt-Mentle, NIST</td>
 </tr>
 </table>
