@@ -4,7 +4,7 @@ body-class: home
 title: Suzette Kent
 permalink: /about/members-and-leadership/Suzette-Kent/
 background-image: 
-bio-name-text: MS. MARGIE GRAVES
+bio-name-text: MS. SUZETTE KENT
 bio-title-text: FEDERAL CHIEF INFORMATION OFFICER
 bio-agency-text: 
 bio-image-url: 
