@@ -19,7 +19,7 @@ banner-button-link:
 
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
-<table style="border-style:none;">
+<table style="border-style:hidden;">
   <tr>
     <td><center><img src="/assets/img/event.winit.SuzetteKent_website.png"></center><br><center>Suzette Kent <br> Federal CIO</center></td>
     <td><center><img src="/assets/img/event.winit.MargieGraves_circle.png"></center><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></center></td><br>
