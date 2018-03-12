@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-title: Suzette Kent
+title: Joanne Collins Smee
 permalink: /about/members-and-leadership/Joanne-Collins-Smee/
 background-image: 
 bio-name-text: MS. JOANNE COLLINS SMEE
