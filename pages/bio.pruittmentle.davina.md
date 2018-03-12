@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-title: Suzette Kent
+title: Dr. Davina Pruitt-Mentle
 permalink: /about/members-and-leadership/Dr-Davina-Pruitt-Mentle/
 background-image: 
 bio-name-text: DR. DAVINA PRUITT-MENTLE
