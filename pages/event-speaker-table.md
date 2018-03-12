@@ -20,8 +20,8 @@ banner-button-link:
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
 <table style="border:hidden;">
-  <tr style="border:hidden;">
-    <td><center><img src="/assets/img/event.winit.SuzetteKent_website.png"></center><br><center>Suzette Kent <br> Federal CIO</center></td>
+  <tr>
+    <td style="border:hidden;"><center><img src="/assets/img/event.winit.SuzetteKent_website.png"></center><br><center>Suzette Kent <br> Federal CIO</center></td>
     <td><center><img src="/assets/img/event.winit.MargieGraves_circle.png"></center><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></center></td><br>
   </tr>
 </table>
@@ -31,7 +31,7 @@ banner-button-link:
 <table style="border:hidden;">
   <tr style="text-align:center;">
     <td><img src="/assets/img/event.winit.sylviaburns_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
-    <td><img src="/assets/img/event.winit.JasonGray_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
+    <td ><img src="/assets/img/event.winit.JasonGray_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
     <td><img src="/assets/img/event.winit.beth-killoran_circle.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> Dept. of Health and Human Services</a></center></td>
   </tr>
   <tr style="text-align:center;">
