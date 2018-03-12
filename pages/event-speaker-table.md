@@ -45,7 +45,7 @@ banner-button-link:
 
 <table align="center">
 <tr style="text-align:center;">
-  <td><!--img src="/assets/img/event.winit.MargieGraves_original"--><br><center>Joanne Collins-Smee, U.S. General Services Administration</center></td>
-  <td style="align:center"><img src="/assets/img/event.davina_pruitt-mentl_original.jpg"><br>Dr. Davina Pruitt-Mentle, NIST</td>
+  <td><img src="/assets/img/event.winit.JoanneCollinsSmee_original.png"><br><center>Joanne Collins-Smee, U.S. General Services Administration</center></td>
+  <td style="align:center"><img src="/assets/img/event.davina_pruitt-mentl_circle.png"><br>Dr. Davina Pruitt-Mentle, NIST</td>
 </tr>
 </table>
