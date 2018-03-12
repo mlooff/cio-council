@@ -19,6 +19,8 @@ banner-button-link:
 
 <p><em>All information to be used as placeholders until information confirmed</em></p>
 
+<h3><center>Federal CIO Participants</center></h3>
+
 <table style="border:hidden;">
   <tr>
     <td style="border:hidden;"><center><img src="/assets/img/event.winit.SuzetteKent_website.png"></center><br><center>Suzette Kent <br> Federal CIO</center></td>
@@ -27,6 +29,8 @@ banner-button-link:
 </table>
 
 <br>
+
+<h3><center>Participating Federal Agency CIOs</center></h3>
 
 <table style="border:hidden;">
   <tr style="text-align:center;">
@@ -43,9 +47,11 @@ banner-button-link:
 
 <br>
 
+<h3><center>Additional Participants</center></h3>
+
 <table align="center">
 <tr style="text-align:center;">
-  <td style="border:hidden;"><img src="/assets/img/event.winit.JoanneCollinsSmee_original.png"><br><center>Joanne Collins-Smee, U.S. General Services Administration</center></td>
-  <td style="border:hidden;align:center"><img src="/assets/img/event.davina_pruitt-mentl_circle.png"><br>Dr. Davina Pruitt-Mentle, NIST</td>
+  <td style="border:hidden;"><img src="/assets/img/event.winit.JoanneCollinsSmee_original.png"><a href=""><br><center>Joanne Collins-Smee <br>Acting Director of Technology Transformation Services<br> U.S. General Services Administration</center></a></td>
+  <td style="border:hidden;align:center"><img src="/assets/img/event.davina_pruitt-mentl_circle.png"><br><a href="">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br> NIST, NICE</a></td>
 </tr>
 </table>
