@@ -17,13 +17,13 @@ banner-button-text:
 banner-button-link: 
 ---
 
-<p><em>All information to be used as placeholders until information confirmed</em></p>
+<p><em>If you find this, i'm pretty much teaching myself html...nothing to see here</em></p>
 
 <h3><center>Federal CIO Participants</center></h3>
 
 <table style="border:hidden;">
   <tr>
-    <td style="border:hidden;"><center><!--img src="/assets/img/event.winit.SuzetteKent_website.png"--></center><br><center>Suzette Kent <br> Federal CIO</center></td>
+    <td style="border:hidden;"><center><!--img src="/assets/img/event.winit.SuzetteKent_website.png"--></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br> Federal CIO</center></a></td>
     <td><center><!--img src="/assets/img/event.winit.MargieGraves_circle.png"--></center><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br> Deputy Federal CIO</a></center></td><br>
   </tr>
 </table>
