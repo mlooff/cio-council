@@ -34,7 +34,7 @@ banner-button-link:
 
 <table style="border:hidden;">
   <tr style="text-align:center;">
-    <td style="border:hidden;"><img src="/assets/img/Canva_SylviaBurns_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
+    <td style="border:hidden;"><img src="/assets/img/Canva_SylivaBurns_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> CIO <br> Dept. of Interior</a></center></td>
     <td style="border:hidden;"><img src="/assets/img/Canva_JasonGray_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> CIO <br> Dept. of Education</a></center></td>
     <td style="border:hidden;"><img src="/assets/img/Canva_BethKilloran_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> Dept. of Health and Human Services</a></center></td>
   </tr>
