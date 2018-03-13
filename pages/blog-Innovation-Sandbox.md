@@ -16,7 +16,7 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-<h3>Background</h3>
+<h3 style="font-family: 'Poppins'">Background</h3>
 <p>The CIO Council’s Innovation Committee is the focal point to lead innovation and drive strategic change including digital projects across the federal enterprise.   In late 2017, the Small Business Administration (SBA) received funding from the CIO Council’s Innovation Committee to develop and implement a pilot initiative allowing agencies access to a platform to test new technologies and methodologies: The Innovation Sandbox.</p>
 
 <h3>What is it?</h3>
