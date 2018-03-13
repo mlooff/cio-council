@@ -41,7 +41,7 @@ banner-button-link:
   <tr style="text-align:center;">
     <td style="border:hidden;"><img src="/assets/img/Canva_MariaRoat_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> CIO <br> SBA</a></center></td>
     <td style="border:hidden;"><img src="/assets/img/Canva_GaryWashington_2.png"><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington <br> CIO <br> USDA</a></center></td>
-    <td style="border:hidden;"><img src="/assets/img//assets/img/Canva_ReneeWynn_2"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td>
+    <td style="border:hidden;"><img src="/assets/img/Canva_ReneeWynn_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td>
   </tr>
 </table>
 
@@ -52,6 +52,6 @@ banner-button-link:
 <table align="center">
 <tr style="text-align:center;">
   <td style="border:hidden;"><img src="/assets/img/assets/img/Canva_JoanneCollinsSmee_2.png"><a href="https://www.cio.gov/about/members-and-leadership/Joanne-Collins-Smee/"><br><center>Joanne Collins-Smee <br>Acting Director of Technology Transformation Services<br> U.S. General Services Administration</center></a></td>
-  <td style="border:hidden;align:center"><img src="/assets/img/assets/img/Canva_DavinaPruittMentle_2.png"><br><a href="https://www.cio.gov/about/members-and-leadership/Dr-Davina-Pruitt-Mentle/">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br> NIST, NICE</a></td>
+  <td style="border:hidden;align:center"><img src="/assets/img/Canva_DavinaPruittMentle_2.png"><br><a href="https://www.cio.gov/about/members-and-leadership/Dr-Davina-Pruitt-Mentle/">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br> NIST, NICE</a></td>
 </tr>
 </table>
