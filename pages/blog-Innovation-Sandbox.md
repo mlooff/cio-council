@@ -16,11 +16,11 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-<em><h3>Background</h3></em>
+<h3>Background</h3>
 <br>
 <p>The CIO Council’s Innovation Committee is the focal point to lead innovation and drive strategic change including digital projects across the federal enterprise.   In late 2017, the Small Business Administration (SBA) received funding from the CIO Council’s Innovation Committee to develop and implement a pilot initiative allowing agencies access to a platform to test new technologies and methodologies: The Innovation Sandbox.</p>
 <br>
-<em><h3>What is it?</h3></em>
+<h3>What is it?</h3>
 <br>
 <p>The Innovation Sandbox is an Infrastructure as a Service (IaaS) capability that allows for simple, time-bound, hypothesis-based statistical experiments within a secure, controlled, cloud-based computing environment.  The sandbox enables and encourages cross-agency collaboration to leverage modern tools and technologies to test hypotheses and share their findings, data and experiences with their colleagues from across the government.</p> 
 <br>
@@ -28,6 +28,6 @@ banner-button-link:
 <br>
 <p>At the conclusion of the pilot, the CIO Council aims to develop a report on agencies experiences leveraging the Innovation Sandbox to determine the need and feasibility for a sustained federal-wide sandbox, and identify best practices that can help agencies create their own sandbox.</p>
 <br>
-<em><h3>Next Steps</h3></em>
+<h3>Next Steps</h3>
 <br>
 <p>Employees and contractors interested in using the Innovation Sandbox should contact CIO Council Support (feedback@cio.gov).  Interested parties are strongly encouraged to contact the CIO Council as soon as possible for planning purposes.</p>
