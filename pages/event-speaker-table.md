@@ -28,7 +28,7 @@ banner-button-link:
  <td style="border:hidden;"><img src="/assets/img/Canva_SylivaBurns_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> Chief Information Officer <br> U.S. Department of the Interior</a></center></td>
 </tr>
 <tr style="text-align:center;">
-<td style="border:hidden;"><img src="/assets/img/Canva_JasonGray_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> Chief Information Officer <br> U.S. Deparment of Education</a></center></td>
+<td style="border:hidden;"><img src="/assets/img/Canva_JasonGray.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> Chief Information Officer <br> U.S. Deparment of Education</a></center></td>
 <td style="border:hidden;"><img src="/assets/img/Canva_BethKilloran_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> U.S. Department of Health &amp; Human Services</a></center></td>
 <td style="border:hidden;"><img src="/assets/img/Canva_MariaRoat_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> Chief Information Officer <br> U.S. Small Business Administration</a></center></td>
 </tr>
