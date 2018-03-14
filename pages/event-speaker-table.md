@@ -21,6 +21,29 @@ banner-button-link:
 
 <h3 style="font-family:Poppins"><center>Confirmed Speakers</center></h3>
 
+<table style="border:hidden;">
+<tr>
+<td style="border:hidden;"><center><img src="/assets/img/Canva_SuzetteKent_2.png"></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br>U.S. Federal Chief Information Officer<br>Office of Management and Budget</center></a></td>
+<td><center><img src="/assets/img/Canva_MargieGraves_2.png"></center><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br>U.S. Deputy Federal Chief Information Officer<br>Office of Management and Budget</a></center></td>
+ <td style="border:hidden;"><img src="/assets/img/Canva_SylivaBurns_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/">Sylvia Burns <br> Chief Information Officer <br> U.S. Department of the Interior</a></center></td>
+</tr>
+<tr style="text-align:center;">
+<td style="border:hidden;"><img src="/assets/img/Canva_JasonGray_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray <br> Chief Information Officer <br> U.S. Deparment of Education</a></center></td>
+<td style="border:hidden;"><img src="/assets/img/Canva_BethKilloran_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br> CIO <br> U.S. Department of Health &amp; Human Services</a></center></td>
+<td style="border:hidden;"><img src="/assets/img/Canva_MariaRoat_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> Chief Information Officer <br> U.S. Small Business Administration</a></center></td>
+</tr>
+<tr style="text-align:center;">
+<td style="border:hidden;"><img src="/assets/img/Canva_GaryWashington_2.png"><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><br><center><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington<br> CIO <br>U.S. Department of Agriculture</a></center></td>
+<td style="border:hidden;"><img src="/assets/img/Canva_ReneeWynn_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br>National Aeronautics and Space Administration (NASA)</a></center></td>
+<td style="border:hidden;"><img src="/assets/img/Canva_JoanneCollinsSmee_2.png"><a href="https://www.cio.gov/about/members-and-leadership/Joanne-Collins-Smee/"><br><center>Joanne Collins-Smee <br>Acting Director of Technology Transformation Services<br> U.S. General Services Administration</center></a></td>
+</tr>
+<br>
+<tr style="text-align:center;">
+<td style="border:hidden;align:center"></td>
+<td style="border:hidden;align:center"><img src="/assets/img/Canva_DavinaPruittMentle_2.png"><br><a href="https://www.cio.gov/about/members-and-leadership/Dr-Davina-Pruitt-Mentle/">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br>National Institute of Standards and Technology (NIST), National Initiative for Cybersecurity Education (NICE)</a></td>
+</tr>
+</table>
+
 <!--table style="border:hidden;">
   <tr>
     <td style="border:hidden;"><center><img src="/assets/img/Canva_SuzetteKent_2.png"></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br> Federal CIO</center></a></td>
