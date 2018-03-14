@@ -41,7 +41,7 @@ banner-button-link:
   <!--tr style="text-align:center;">
     <td style="border:hidden;"><img src="/assets/img/Canva_MariaRoat_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> CIO <br> SBA</a></center></td>
     <td style="border:hidden;"><img src="/assets/img/Canva_GaryWashington_2.png"><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><!--br><center><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington <br> CIO <br> USDA</a></center></td-->
-    <!--td style="border:hidden;"><img src="/assets/img/Canva_ReneeWynn_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td>
+    <!--td style="border:hidden;"><img src="/assets/img/Canva_ReneeWynn_2.png"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br> CIO <br> NASA</a></center></td-->
   </tr>
 </table-->
 
