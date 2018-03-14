@@ -23,7 +23,7 @@ banner-button-link:
 
 <table style="border:hidden;">
 <tr>
-<td style="border:hidden;width:400px"><center><img src="/assets/img/Canva_SuzetteKent_2.png" style="max-height:250px; max-width:250px;"></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br>U.S. Federal Chief Information Officer<br>Office of Management and Budget</center></a></td>
+<td style="border:hidden;width:400px"><br><center><img src="/assets/img/Canva_SuzetteKent_2.png" style="max-height:250px; max-width:250px;"></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br>U.S. Federal Chief Information Officer<br>Office of Management and Budget</center></a></td>
 <td style="border:hidden;width:450px"><center><img src="/assets/img/Canva_MargieGraves_2.png" style="max-height:250px; max-width:250px;"></center><br><center><a href="https://www.cio.gov/about/members-and-leadership/margie-graves/">Margie Graves<br>U.S. Deputy Federal Chief Information Officer<br>Office of Management and Budget</a></center></td>
 <td style="border:hidden;width:350px"><center><img src="/assets/img/Canva_SylivaBurns_2.png" style="max-height:250px; max-width:250px;" align="center"><br><a href="https://www.cio.gov/about/members-and-leadership/ms-sylvia-burns/"><br>Sylvia Burns<br> Chief Information Officer <br> U.S. Department of the Interior</a></center></td>
 </tr>
