@@ -21,7 +21,6 @@ banner-button-link:
 
 <h3 style="font-family:Poppins"><center>Confirmed Speakers</center></h3>
 
-<div style="max-height:250px; max-width:250px;">
 <table style="border:hidden;">
 <tr>
 <td style="border:hidden;width:400px"><center><img src="/assets/img/Canva_SuzetteKent_2.png"></center><br><a href="/about/members-and-leadership/Suzette-Kent/"><center>Suzette Kent <br>U.S. Federal Chief Information Officer<br>Office of Management and Budget</center></a></td>
@@ -44,7 +43,7 @@ banner-button-link:
 <td style="border:hidden;align:center"><img src="/assets/img/Canva_DavinaPruittMentle_2.png"><br><a href="https://www.cio.gov/about/members-and-leadership/Dr-Davina-Pruitt-Mentle/">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br>National Institute of Standards and Technology (NIST), National Initiative for Cybersecurity Education (NICE)</a></td>
 </tr>
 </table>
-</div>
+
 
 <!--table style="border:hidden;">
   <tr>
