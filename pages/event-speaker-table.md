@@ -29,8 +29,8 @@ banner-button-link:
 </tr>
 <tr style="text-align:center;">
 <td style="border:hidden;"><br><img src="/assets/img/Canva_JasonGray_2.png" style="max-height:250px; max-width:250px;"><br><center><a href="https://www.cio.gov/about/members-and-leadership/mr-jason-gray/">Jason Gray<br>Chief Information Officer <br> U.S. Deparment of Education</a></center></td>
-<td style="border:hidden;"><br><img src="/assets/img/Canva_BethKilloran_2.png" style="max-height:250px; max-width:250px;"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran <br>Chief Information Officer<br> U.S. Department of Health &amp; Human Services</a></center></td>
-<td style="border:hidden;"><br><img src="/assets/img/Canva_MariaRoat_2.png" style="max-height:250px; max-width:250px;" align="center"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> Chief Information Officer <br> U.S. Small Business Administration</a></center></td>
+<td style="border:hidden;"><br><img src="/assets/img/Canva_BethKilloran_2.png" style="max-height:250px; max-width:250px;"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-beth-anne-killoran/">Beth Killoran<br>Chief Information Officer<br> U.S. Department of Health &amp; Human Services</a></center></td>
+<td style="border:hidden;"><br><img src="/assets/img/Canva_MariaRoat_2.png" style="max-height:250px; max-width:250px;" align="center"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat <br> Chief Information Officer<br> U.S. Small Business Administration</a></center></td>
 </tr>
 <tr style="text-align:center;">
 <td style="border:hidden;"><center><img src="/assets/img/Canva_GaryWashington_2.png" style="max-height:250px; max-width:250px;"><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><br><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington<br>Chief Information Officer<br>U.S. Department of Agriculture</a></center></td>
