@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: Blog - Innovation Sandbox Pilot Launch! 
 blog-date: March 13, 2018
-blog-author: CIO Council Operations
+blog-author: Maria Roat, Chief Information Officer of the Small Business Administration
 blog-title: Innovation Sandbox Pilot Launch 
 permalink: /2018/03/13/innovation-sandbox-launch/
 background-image: /assets/img/grey.background.png
