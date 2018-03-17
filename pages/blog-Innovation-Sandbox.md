@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: Blog - Innovation Sandbox Pilot Launch 
 blog-date: March 15, 2018
-blog-author: Maria Roat, Chief Information Officer of the U.S. Small Business Administration and Chair of the Innovation Committee
+blog-author: <a href="https://www.cio.gov/about/members-and-leadership/ms-maria-roat/">Maria Roat, Chief Information Officer of the U.S. Small Business Administration and Chair of the Innovation Committee</a>
 blog-title: Innovation Sandbox Pilot Launch 
 permalink: /2018/03/15/innovation-sandbox-launch/
 background-image: /assets/img/grey.background.png
