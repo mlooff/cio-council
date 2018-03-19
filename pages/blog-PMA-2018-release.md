@@ -24,7 +24,7 @@ The agenda outlines three key drivers of modernizing government for the 21st cen
 
 <li>Data, accountability, and transparency initiatives that deliver visibly better results to the public, while improving accountability to taxpayers.</li>
 
-<li>A Workforce for the 21st century that enables senior leaders and front-line managers to nimbly align staff skills with evolving mission needs.<li>
+<li>A Workforce for the 21st century that enables senior leaders and front-line managers to nimbly align staff skills with evolving mission needs.</li>
 </ol>
 
 
