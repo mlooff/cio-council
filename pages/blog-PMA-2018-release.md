@@ -20,6 +20,7 @@ banner-button-link:
 
 
 The <em>President’s Management Agenda</em> lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.  
+<br>
 The agenda outlines three key drivers of modernizing government for the 21st century:
 
 <p style="float: left;border=50px"><img src="https://federalist-proxy.app.cloud.gov/preview/gsa/cio-council/development/assets/img/IT Data People Graphic_Hi Res-01.png" width="300" height="300"></p>
