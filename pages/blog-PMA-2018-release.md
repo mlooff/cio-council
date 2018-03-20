@@ -35,4 +35,4 @@ The agenda outlines three key drivers of modernizing government for the 21st cen
 
 
 
-The CIO Council, in collaboration with the other CXO communities, will play a leading role in a number of CAP goals. <a href="https://www.omb.gov/pma">Read the full PMA here.</a>
+The CIO Council, in collaboration with the other CXO communities, will play a leading role in a number of CAP goals. <a href="https://www.performance.gov/PMA/PMA.html">Read the full PMA here.</a>
