@@ -8,7 +8,7 @@ hero-byline:
 hero-button-text: Learn More
 hero-button-link: /event-fedtechwomen/
 banner-heading: NEWS AND UPDATES
-banner-text: <A HREF="https://www.cio.gov/2018/02/02/preliminary-results-of-the-cio-councils-government-wide-hiring-event-demonstrate-effectiveness-of-cxo-collaboration/">READ THE LATEST FROM THE CIO COMMUNITY</A>
+banner-text: <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">READ THE LATEST FROM THE CIO COMMUNITY</A>
 banner-button-text: 
 banner-button-link: 
 ---
