@@ -16,7 +16,7 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-<img src="/assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog_Resized.png">
+<img src="/assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog_Resized.png/">
 
 
 The <em>President’s Management Agenda</em> lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.  
