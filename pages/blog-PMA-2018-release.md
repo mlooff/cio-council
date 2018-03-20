@@ -23,7 +23,7 @@ The <em>President’s Management Agenda</em> lays out a long-term vision for mod
 <br>
 The agenda outlines three key drivers of modernizing government for the 21st century:
 
-<p style="float: left"><img src="https://federalist-proxy.app.cloud.gov/preview/gsa/cio-council/development/assets/img/IT Data People Graphic_Hi Res-01.png" width="300" height="300"></p>
+<p style="float: left"><img src="https://federalist-proxy.app.cloud.gov/preview/gsa/cio-council/development/assets/img/IT Data People Graphic_Hi Res-01.png" width="300" height="300" style="border: 50px"></p>
 
 <ol type="1">
 <li>Modern information technology that helps Government meet customer expectations and keep data and systems secure in the digital age.</li>
