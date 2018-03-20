@@ -6,7 +6,7 @@ blog-date: March 20, 2018
 blog-author: CIO Council Operations
 blog-title: President's Management Agenda Release
 permalink: /2018/03/20/presidents-management-agenda-release/
-background-image: /assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog_Resized.png
+background-image: 
 hero-text:  <!--News & Updates-->
 hero-byline:
 hero-button-text: 
@@ -16,6 +16,8 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
+<img src="/assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog_Resized.png">
+
 
 The <em>President’s Management Agenda</em> lays out a long-term vision for modernizing the Federal Government in key areas that will improve the ability of all agencies to deliver mission outcomes, provide excellent service, and effectively steward taxpayer dollars on behalf of the American people.  
 The agenda outlines three key drivers of modernizing government for the 21st century:
