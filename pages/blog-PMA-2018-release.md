@@ -6,8 +6,8 @@ blog-date: March 20, 2018
 blog-author: CIO Council Operations
 blog-title: President's Management Agenda Release
 permalink: /2018/03/20/presidents-management-agenda-release/
-background-image: /assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog.png
-hero-text:  <!--News & Updates-->
+background-image: /assets/img/PMALOGO_Hi Res_3_12FINAL-03_PMABlog_Resized.png
+hero-text:  <!--News & Updates-->
 hero-byline:
 hero-button-text: 
 hero-button-link: 
