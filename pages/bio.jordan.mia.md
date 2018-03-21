@@ -2,7 +2,7 @@
 layout: bio
 body-class: home
 title: Steven Fine
-permalink: /about/members-and-leadership/ms-mia-jordan
+permalink: /about/members-and-leadership/ms-mia-jordan/
 background-image: 
 bio-name-text: MS. MIA JORDAN
 bio-title-text: CHIEF INFORMATION OFFICER
