@@ -5,7 +5,7 @@ title: Ms. Brianna Mentle
 permalink: /about/members-and-leadership/ms-brianna-mentle/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. BRIANNA MENTLE
-bio-title-text: 
+bio-title-text: Student, Robert H. Smith School of Business at the University of Maryland
 bio-agency-text: 
 bio-image-url: /assets/img/bio.mentle.brianna.png
 bio-image-alt-text: Ms. Brianna Mentle
