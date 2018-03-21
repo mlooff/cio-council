@@ -1,7 +1,7 @@
 ---
 layout: bio
 body-class: home
-title: Steven Fine
+title: Ms. Mia Jordan
 permalink: /about/members-and-leadership/ms-mia-jordan/
 background-image: 
 bio-name-text: MS. MIA JORDAN
