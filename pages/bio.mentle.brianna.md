@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. BRIANNA MENTLE
 bio-title-text: 
 bio-agency-text: 
-bio-image-url: /assets/img/bio.mentle.brianna.png/
+bio-image-url: /assets/img/bio.mentle.brianna.png
 bio-image-alt-text: Ms. Brianna Mentle
 bio-phone: 
 bio-email:  
