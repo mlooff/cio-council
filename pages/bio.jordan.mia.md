@@ -9,7 +9,7 @@ bio-title-text: CHIEF INFORMATION OFFICER
 bio-agency-text: USDA Rural Development
 bio-image-url: 
 bio-image-alt-text: Ms. Mia Jordan
-bio-phone: 202-564-6665
+bio-phone: 
 bio-email:  
 banner-heading: 
 banner-text: 
