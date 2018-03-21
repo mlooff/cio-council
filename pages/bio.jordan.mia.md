@@ -3,7 +3,7 @@ layout: bio
 body-class: home
 title: Ms. Mia Jordan
 permalink: /about/members-and-leadership/ms-mia-jordan/
-background-image: 
+background-image: /assets/img/MiaJordan.jpg/
 bio-name-text: MS. MIA JORDAN
 bio-title-text: CHIEF INFORMATION OFFICER
 bio-agency-text: USDA Rural Development
