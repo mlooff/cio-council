@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. MIA JORDAN
 bio-title-text: CHIEF INFORMATION OFFICER
 bio-agency-text: USDA Rural Development
-bio-image-url: assets/img/MiaJordan.png
+bio-image-url:cio.gov/assets/img/MiaJordan.png
 bio-image-alt-text: Ms. Mia Jordan
 bio-phone: 
 bio-email:  
