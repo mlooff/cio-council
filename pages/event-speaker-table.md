@@ -39,11 +39,12 @@ banner-button-link:
 </tr>
 <br>
 <tr style="text-align:center;">
-<td style="border:hidden;align:center"></td>
+<td style="border:hidden;align:center"><a href="https://www.cio.gov/about/members-and-leadership/ms-mia-jordan/">Ms. Mia Jordan <br> Chief Information Officer <br> USDA Rural Development</a></td>
 <td style="border:hidden;align:center"><img src="/assets/img/Canva_DavinaPruittMentle_2.png" style="max-height:250px; max-width:250px;"><br><a href="https://www.cio.gov/about/members-and-leadership/Dr-Davina-Pruitt-Mentle/">Dr. Davina Pruitt-Mentle <br> Lead for Academic Engagement <br>National Institute of Standards and Technology (NIST), National Initiative for Cybersecurity Education (NICE)</a></td>
 </tr>
 </table>
 
+<!--DO NOT USE BELOW THIS LINE-->
 
 <!--table style="border:hidden;">
   <tr>
