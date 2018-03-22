@@ -5,8 +5,8 @@ title: Joanne Collins Smee
 permalink: /about/members-and-leadership/Joanne-Collins-Smee/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. JOANNE COLLINS SMEE
-bio-title-text: ACTING DIRECTOR, TECHNOLOGY TRANSFORMATION SERVICES, U.S. GENERAL SERVICES ADMINISTRATION
-bio-agency-text: 
+bio-title-text: ACTING DIRECTOR, TECHNOLOGY TRANSFORMATION SERVICES
+bio-agency-text: U.S. GENERAL SERVICES ADMINISTRATION
 bio-image-url: /assets/img/bio.collinssmee.png
 bio-image-alt-text: Joanne Collins Smee
 bio-phone: 
