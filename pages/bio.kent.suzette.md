@@ -16,4 +16,6 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
+Suzette Kent serves as the US Chief Information Officer at the Office of Management and Budget
+
 Biographical Information Coming Soon
