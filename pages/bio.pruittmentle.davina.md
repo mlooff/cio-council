@@ -3,11 +3,11 @@ layout: bio
 body-class: home
 title: Dr. Davina Pruitt-Mentle
 permalink: /about/members-and-leadership/Dr-Davina-Pruitt-Mentle/
-background-image: 
+background-image: /assets/img/grey.background.png
 bio-name-text: DR. DAVINA PRUITT-MENTLE
 bio-title-text: LEAD FOR ACADEMIC ENGAGEMENT, NATIONAL INITIATIVE FOR CYBERSECURITY EDUCATION (NICE)
 bio-agency-text: 
-bio-image-url: 
+bio-image-url: /assets/img/event.davina_pruitt-mentl_original.png
 bio-image-alt-text: Dr. Davina Pruitt-Mentle
 bio-phone: 
 bio-email: 
