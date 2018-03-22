@@ -16,6 +16,7 @@ banner-text:
 banner-button-text: 
 ---
 
+
 Mia Jordan is the Chief Information Officer for Rural Development where she facilitates the effective management and oversight of the agency's $85 million portfolio of information technology (IT) investments to ensure they are managed in accordance with legislative mandates, such as The Clinger-Cohen Act of 1996, Federal Information Security Management Act and FITARA. 
 
 Jordan has served with the U.S. Department of Agriculture for over seven years and was formerly the Director of IT Governance and Chief Architect for the Natural Resources Conservation Service (NRCS).While at NRCS, she oversaw the agency’s premier automated Conservation Delivery Streamlining Initiative program, a $180 million IT initiative to implement a more effective, efficient and sustainable web-based b¬¬usiness centric model for delivering science-based soil conservation assistance across the nation to improve our nation’s air, soil, water, wildlife and energy use. 
