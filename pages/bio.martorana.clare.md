@@ -7,7 +7,7 @@ bio-name-text: MS. CLARE MARTORANA
 bio-title-text: DIGITAL SERVICE EXPERT
 bio-agency-text: United States Digital Service
 bio-image-url: 
-bio-image-alt-text: Ms. Clare Martorana
+bio-image-alt-text:
 bio-phone: 
 bio-email:  
 banner-heading: 
