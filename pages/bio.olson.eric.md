@@ -5,7 +5,7 @@ title: MR. ERIC OLSON - TREASURY
 permalink: /about/members-and-leadership/mr-eric-olson/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. ERIC OLSON
-bio-title-text: ACTING CHIEF INFORMATION OFFICER,
+bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF TREASURY
 bio-image-url: /assets/img/bio.olson.eric.jpg
 bio-image-alt-text: Eric Olson
@@ -25,7 +25,5 @@ Prior to joining the Treasury Department in 2015, Olson served in the Justice De
 Olson began his Federal career in 2003 as a program manager in the Office of the CIO at the Justice Department, where he led the transformation of DOJ’s IT infrastructure to support the Department’s expanded information sharing mission.  In 2007 he was appointed to the senior executive service and served as Deputy CIO where he led a diverse portfolio of programs in the areas of enterprise IT infrastructure and end-user services, information sharing and tactical communications.
 
 Prior to his Federal service, Olson was a consultant with Accenture where he specialized in leading the delivery of enterprise mission-critical systems to Fortune 50 clients in the telecommunications services industry.  Earlier in his career he also held technology management positions with Verizon and Sprint.
-
- 
 
 Olson received his M.B.A. from the College of William and Mary and graduated from the Pennsylvania State University with a degree in mathematics.  
