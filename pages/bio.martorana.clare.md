@@ -7,8 +7,8 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. CLARE MARTORANA
 bio-title-text: DIGITAL SERVICE EXPERT
 bio-agency-text: United States Digital Service
-bio-image-url: 
-bio-image-alt-text:
+bio-image-url: /assets/img/bio.martoranaclare.png
+bio-image-alt-text: Ms. Clare Martorana
 bio-phone: 
 bio-email:  
 banner-heading: 
