@@ -9,8 +9,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF HOMELAND SECURITY
 bio-image-url: /assets/img/bio.zangardi.john.png
 bio-image-alt-text: Dr. John Zangardi
-bio-phone: 703-614-7323
-bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil
+bio-phone: (202) 447-0005
+bio-email: John.Zangardi@hq.dhs.gov
 banner-heading: 
 banner-text: 
 banner-button-text: 
