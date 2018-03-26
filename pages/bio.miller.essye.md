@@ -9,7 +9,7 @@ bio-agency-text: U.S. DEPARTMENT OF DEFENSE
 bio-image-url: /assets/img/bio.miller.essye.png
 bio-image-alt-text: Essye Miller
 bio-phone: 703-614-7323
-bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil
+bio-email: osd.pentagon.dod-cio.mbx.pubs-audits@mail.mil 
 banner-heading: 
 banner-text: 
 banner-button-text: 
