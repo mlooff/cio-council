@@ -1,10 +1,10 @@
 ---
 layout: bio
 body-class: home
-title: <p align="center">CIO Council Priorities</p>
+title: CIO Council Priorities
 permalink: /cioc-priorities/
 background-image: /assets/img/grey.background.png
-bio-name-text: CIO COUNCIL PRIORITIES
+bio-name-text: <p align="center"> CIO COUNCIL PRIORITIES </p>
 bio-title-text: 
 bio-agency-text: 
 bio-image-url: 
