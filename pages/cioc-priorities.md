@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: bio
 body-class: home
 permalink: /cioc-priorities/
 background-image: /assets/img/spreadsheet.png
