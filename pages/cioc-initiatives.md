@@ -3,8 +3,8 @@ layout: bio
 body-class: home
 title: CIO Council Initiatives
 permalink: /cioc-initiatives/
-background-image: /assets/img/spreadsheet.png
-bio-name-text: <p style="color:#ffffff";align="center"> CIO COUNCIL INITIATIVES </p>
+background-image: /assets/img/grey.background.png/
+bio-name-text: <p style="align="center"> CIO COUNCIL INITIATIVES </p>
 bio-title-text: 
 bio-agency-text: 
 bio-image-url: 
