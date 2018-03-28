@@ -13,7 +13,7 @@ banner-button-text:
 banner-button-link: 
 ---
 
-<h3>[Technology Business Management](https://www.cio.gov/cioc-priority-tbm/)</h3>
+### [Technology Business Management](https://www.cio.gov/cioc-priority-tbm/)
 <br/>
 <br/>
-<h3>[President's Management Agenda](https://www.cio.gov/2018/03/20/presidents-management-agenda-release/)</h3>
+### [President's Management Agenda](https://www.cio.gov/2018/03/20/presidents-management-agenda-release/)
