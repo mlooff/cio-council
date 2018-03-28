@@ -17,7 +17,7 @@ banner-button-text:
 banner-button-link: 
 ---
 
-<h2 style="font-family:Poppins"><a href="https://www.cio.gov/cioc-priority-tbm/">Technology Business Management (TBM)</a></h2>
+<h3 style="font-family:Poppins"><a href="https://www.cio.gov/cioc-priority-tbm/">Technology Business Management (TBM)</a></h3>
 <br/>
-<h2 style="font-family:Poppins"><a href="https://www.cio.gov/2018/03/20/presidents-management-agenda-release/">President's Management Agenda</a></h2>
+<h3 style="font-family:Poppins"><a href="https://www.cio.gov/2018/03/20/presidents-management-agenda-release/">President's Management Agenda</a></h3>
 
