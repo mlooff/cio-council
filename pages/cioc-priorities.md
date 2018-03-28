@@ -1,10 +1,11 @@
 ---
-layout: bio
+layout: about
 body-class: home
+title: About the Council
 permalink: /cioc-priorities/
 background-image: /assets/img/spreadsheet.png
 hero-text: "CIO COUNCIL PRIORITIES"
-hero-byline: 
+hero-byline:
 hero-button-text: 
 hero-button-link: 
 banner-heading: 
