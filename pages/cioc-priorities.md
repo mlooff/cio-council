@@ -3,7 +3,7 @@ layout: cioc-priorities
 body-class: home
 title: About the Council
 permalink: /cioc-priorities/
-background-image: /assets/img/gray.png
+background-image: /assets/img/grey.png
 hero-text: "CIO COUNCIL PRIORITIES"
 hero-byline:
 hero-button-text: 
