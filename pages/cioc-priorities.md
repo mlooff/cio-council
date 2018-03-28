@@ -3,11 +3,14 @@ layout: bio
 body-class: home
 title: CIO Council Priorities
 permalink: /cioc-priorities/
-background-image: /assets/img/grey.png
-hero-text: "CIO COUNCIL PRIORITIES"
-hero-byline:
-hero-button-text: 
-hero-button-link: 
+background-image: /assets/img/grey.background.png
+bio-name-text: 
+bio-title-text: 
+bio-agency-text: 
+bio-image-url: 
+bio-image-alt-text: 
+bio-phone: 
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
