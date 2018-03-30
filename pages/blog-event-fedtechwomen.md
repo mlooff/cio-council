@@ -30,20 +30,20 @@ Today’s event brought together the nation’s top federal IT leaders, includin
 <br/>
 
 <figure>
-<img src ="/assets/img/event-winfit-1.jpg">
-<figcaption><em>A panel discussion "Cultivating IT Interest in Our Young Women with speakers Jason Gray, Dept of Education, Joanne Collins Smee, GSA, Renee Wynn, NASA, and Davina Pruitt-Mentle, NIST at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham.</em></figcaption>
+<center><img src ="/assets/img/event-winfit-1.jpg"></center>
+<figcaption><em><center>A panel discussion "Cultivating IT Interest in Our Young Women with speakers Jason Gray, Dept of Education, Joanne Collins Smee, GSA, Renee Wynn, NASA, and Davina Pruitt-Mentle, NIST at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham.</center></em></figcaption>
 </figure>
 
 <br/>
 
 <figure>
-<img src ="/assets/img/event-winfit-2.jpg">
-<figcaption><em>Attendees at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</em></figcaption>
+<center><img src ="/assets/img/event-winfit-2.jpg"></center>
+<figcaption><em><center>Attendees at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</center></em></figcaption>
 </figure>
 
 <br/>
 
 <figure>
-<img src ="/assets/img/event-winfit-3.jpg">
-<figcaption><em>Suzette Kent, Federal CIO, OMB presents opening remarks for the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</em></figcaption>
+<center><img src ="/assets/img/event-winfit-3.jpg"></center>
+<figcaption><em><center>Suzette Kent, Federal CIO, OMB presents opening remarks for the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</center></em></figcaption>
 </figure>
