@@ -5,7 +5,7 @@ title: CIO Council Honors Women in Tech for Women's History Month
 blog-date: March 30, 2018
 blog-author: CIO Council Operations
 blog-title: CIO Council Honors Women in Tech for Women's History Month
-permalink:  /2018/03/29/blog-event-fedtechwomen/
+permalink:  /2018/03/30/blog-event-fedtechwomen/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
 hero-byline:
@@ -27,6 +27,23 @@ Today’s event brought together the nation’s top federal IT leaders, includin
 
 <strong>About GSA:</strong> The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across Government.
 
+<br/>
+
+<figure>
 <img src ="/assets/img/event-winfit-1.jpg">
+<figcaption><em>A panel discussion "Cultivating IT Interest in Our Young Women with speakers Jason Gray, Dept of Education, Joanne Collins Smee, GSA, Renee Wynn, NASA, and Davina Pruitt-Mentle, NIST at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham.</em></figcaption>
+</figure>
+
+<br/>
+
+<figure>
 <img src ="/assets/img/event-winfit-2.jpg">
+<figcaption><em>Attendees at the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</em></figcaption>
+</figure>
+
+<br/>
+
+<figure>
 <img src ="/assets/img/event-winfit-3.jpg">
+<figcaption><em>Suzette Kent, Federal CIO, OMB presents opening remarks for the Women in Federal IT & Cyber event in the Jefferson Auditorium, U.S. Department of Agriculture (USDA) in Washington, DC, on March 29, 2018. USDA photo by Tom Witham</em></figcaption>
+</figure>
