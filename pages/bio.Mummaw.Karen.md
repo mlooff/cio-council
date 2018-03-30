@@ -24,5 +24,5 @@ Previous roles include:
 <li>Deputy Management Officer and Information Management Officer – US Embassy Nairobi, Kenya</li>
 <li>Division Chief - Customer Liaison Division for the Bureau of Information Resource Management</li>
 <li>Executive Assistant for the Chief Information Officer for the Department and Bureau of Information Resource Management</li>
-
+<br/>
 Ms. Mummaw has spent nearly 30 years supporting foreign affairs around the globe.  Her successes have resulted in the conferral of several diplomatic awards and distinctions.  Ms. Mummaw holds a Bachelor of Arts from the University of Pittsburgh.  A native of Pennsylvania, she is part of a Foreign Service tandem couple and has two children.
