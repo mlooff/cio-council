@@ -26,3 +26,7 @@ WASHINGTON, D.C. - On March 29, the Chief Information Officers Council (CIOC), s
 Today’s event brought together the nation’s top federal IT leaders, including newly appointed Federal CIO Suzette Kent, and hundreds of federal employees to celebrate the success of women in the federal government. Discussions focused on strategies to engage, inspire and motivate more women to continue to pursue careers in IT and cybersecurity fields.
 
 <strong>About GSA:</strong> The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across Government.
+
+<img src ="/assets/img/event-winfit-1.jpg">
+<img src ="/assets/img/event-winfit-2.jpg">
+<img src ="/assets/img/event-winfit-3.jpg">
