@@ -5,7 +5,7 @@ title: CIO Council Honors Women in Tech for Women's History Month
 blog-date: March 30, 2018
 blog-author: CIO Council Operations
 blog-title: CIO Council Honors Women in Tech for Women's History Month
-permalink: /2018/03/30/blog-event-fedtechwomen/
+permalink:  /2018/03/29/blog-event-fedtechwomen/
 background-image: /assets/img/grey.background.png
 hero-text:  News & Updates
 hero-byline:
