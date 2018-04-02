@@ -13,8 +13,8 @@ assigned:
         show_in_footer: true
     -
         text: Initiatives
-        href: pages/hiringevent.md
-        permalink: /hiringevent/info/
+        href: pages/cioc-initiatives.md
+        permalink: /cioc-initiatives/
         show_in_menu: true
         show_in_footer: true
         children:
