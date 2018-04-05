@@ -7,7 +7,7 @@ blog-author: Office of the Federal Chief Information Officer
 blog-title: <!--REQUEST FOR COMMENT Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)--> 
 permalink: /2018/04/06/identity-draft/
 background-image: /assets/img/grey.background.png
-hero-text: REQUEST FOR COMMENT Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
+hero-text: REQUEST FOR COMMENT - Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
 hero-byline:
 hero-button-text: 
 hero-button-link: 
