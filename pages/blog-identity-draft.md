@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: REQUEST FOR COMMENT: Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
 blog-date: April 6, 2018
-blog-author: Office of the Federal Chief Information Officer <!--Suzette Kent, Federal Chief Information Officer-->
+blog-author: Office of the Federal Chief Information Officer
 blog-title: REQUEST FOR COMMENT: Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
 permalink: /2018/04/06/identity-draft/
 background-image: /assets/img/grey.background.png
