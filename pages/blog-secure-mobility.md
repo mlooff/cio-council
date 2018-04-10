@@ -4,10 +4,10 @@ body-class: home
 title: Secure Mobility Initiatives
 blog-date: April 10, 2018
 blog-author: Services, Strategy, & Infrastructure Committee of the CIO Council
-blog-title: Secure Mobility Initiatives
+blog-title: 
 permalink: /2018/04/10/blog-secure-mobility/
 background-image: /assets/img/grey.background.png
-hero-text: Secure Mobility Initiatives
+hero-text: 
 hero-byline:
 hero-button-text: 
 hero-button-link: 
