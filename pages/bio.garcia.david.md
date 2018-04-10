@@ -10,7 +10,7 @@ bio-agency-text: U.S. OFFICE OF PERSONNEL MANAGEMENT
 bio-image-url: /assets/img/bio.garcia.david.png
 bio-image-alt-text: David Garcia
 bio-phone: (202) 606-1129
-bio-email: [Email](mailto:David.Garcia@opm.gov) 
+bio-email: David.Garcia@opm.gov
 banner-heading: 
 banner-text: 
 banner-button-text: 
