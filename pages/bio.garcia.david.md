@@ -9,7 +9,7 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. OFFICE OF PERSONNEL MANAGEMENT
 bio-image-url: /assets/img/bio.garcia.david.png
 bio-image-alt-text: David Garcia
-bio-phone: (202) 418-3093
+bio-phone: (202) 606-1129
 bio-email: <a href="mailto:david.garcia@opm.gov">david.garcia@opm.gov</a>
 banner-heading: 
 banner-text: 
