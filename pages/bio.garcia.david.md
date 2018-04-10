@@ -28,12 +28,12 @@ He went on to found Network Management Resources (NMR), Inc., as a basement star
 In 2015 he went on to serve the State of Maryland under Governor Larry Hogan as the Maryland State CIO and Secretary of the Department of Information Technology (DoIT). While serving in this position Mr. Garcia successfully aligned the DoIT to the Governor’s agenda saving the taxpayers millions through waste reduction and cost avoidance.
 <br/>
 <ul>
-<li>•	Served as the Maryland State CIO, 2015-17.</li> 
-<li>•	Member, Maryland Governor's Executive Council (Cabinet Secretary), 2015-17.</li>
-<li>•	Graduate, Defense Language Institute (Russian).</li>
-<li>•	Excelsior College, B.S. (Political Science).</li> 
-<li>•	Founder and Past President and Chief Executive Officer, NMR Consulting.</li> 
-<li>•	Former Member, Board of Directors, Anne Arundel Tech Council;</li>
-<li>•	Former Member Baltimore Hispanic Chamber of Commerce.</li>
+<li>	Served as the Maryland State CIO, 2015-17.</li> 
+<li>	Member, Maryland Governor's Executive Council (Cabinet Secretary), 2015-17.</li>
+<li>	Graduate, Defense Language Institute (Russian).</li>
+<li>	Excelsior College, B.S. (Political Science).</li> 
+<li>	Founder and Past President and Chief Executive Officer, NMR Consulting.</li> 
+<li>	Former Member, Board of Directors, Anne Arundel Tech Council;</li>
+<li>	Former Member Baltimore Hispanic Chamber of Commerce.</li>
 </ul>
 
