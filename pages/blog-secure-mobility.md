@@ -16,17 +16,16 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-
-The integration of mobile technology is underway in Federal IT. While mobile technology and cloud
+<!--The integration of mobile technology is underway in Federal IT. While mobile technology and cloud
 solutions provide significantly greater flexibility for Federal employees to work remotely, Federal
 Agencies must ensure the same level of security is maintained during this transition period to protect
-the data on mobile devices.
+the data on mobile devices.-->
 
-To address this challenge, the Chief Information Officer (CIO) Council’s Services, Strategy, and
+<!--To address this challenge, the Chief Information Officer (CIO) Council’s Services, Strategy, and
 Infrastructure (SSI) Committee has chosen secure mobility as a priority, and is implementing initiatives
-to enhance Federal mobile security.
+to enhance Federal mobile security.-->
 
-Last year, the Council hosted a series of Mobile Days, including a Secure Mobility Workshop on October
+<!--Last year, the Council hosted a series of Mobile Days, including a Secure Mobility Workshop on October
 26, 2017. This workshop featured several agency success stories regarding the implementation of
 projects to enhance mobile device security. During the Secure Mobility Workshop, participants
 developed recommendations to present to the CIO Council's SSI Committee to identify potential projects
@@ -37,10 +36,10 @@ that agencies can use to develop their own mobile security initiatives. The tool
 implementation stories and builds on the Secure Mobility Workshop. These success stories span 10+
 agencies and cover topics including Virtual Desktop Infrastructure (VDI), Trusted Internet Connections
 (TIC), Collaboration Tools, 2-Factor Authentication, Bring Your Own Device (BYOD), and Secure
-Payments.
+Payments.-->
 
-The SSI Committee chose stories from the Department of Commerce, Department of Interior, and the
+<!--The SSI Committee chose stories from the Department of Commerce, Department of Interior, and the
 Department of Homeland Security to share on CIO.gov. These stories explore various alternatives to
 increase speed, reliability, and availability of information and platforms to be accessed remotely.
 As a follow-up to the Secure Mobility Workshop and Secure Mobility Toolkit, the SSI Committee will
-develop a new project based on the recommendations provided to the CIO Council.
+develop a new project based on the recommendations provided to the CIO Council.-->
