@@ -17,8 +17,9 @@ banner-button-text:
 banner-button-link: 
 ---
 
-For over two decades, David has worked in executive roles, and has won numerous national awards for business within Information Technology: 
+For over two decades, David has worked in executive roles, and has won numerous national awards for business within Information Technology.
 
+Mr. Garcia's resume includes: 
 <ul>
 <li>Former Secretary of Maryland’s Department of Information Technology (DoIT) and Maryland State CIO 2015-1017</li>
 <li>Former Founder, President, and CEO of NMR Consulting 1996-2015.</li>
