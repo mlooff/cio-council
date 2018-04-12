@@ -8,8 +8,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. NUCLEAR REGULATORY COMMISSION
 bio-image-url: /assets/img/bio.nelson.david.png
 bio-image-alt-text: David Nelson
-bio-phone: 301-415-7443
-bio-email: david.nelson2@nrc.gov
+bio-phone:
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
