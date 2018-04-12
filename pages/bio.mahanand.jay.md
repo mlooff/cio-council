@@ -8,8 +8,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. AGENCY FOR INTERNATIONAL DEVELOPMENT
 bio-image-url: /assets/img/bio.mahanand.jay.png
 bio-image-alt-text: Jay Mahanand
-bio-phone: 703-666-5632
-bio-email: jmahanand@usaid.gov
+bio-phone: 
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
