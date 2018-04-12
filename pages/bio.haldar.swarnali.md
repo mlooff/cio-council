@@ -10,7 +10,7 @@ bio-agency-text: U.S. NATIONAL ARCHIVES AND RECORDS ADMINISTRATION
 bio-image-url: /assets/img/bio.haldar.swarnali.png
 bio-image-alt-text: Swarnali Haldar
 bio-phone: 301-837-2027 
-bio-email: swarnali.haldar@nara.gov
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
