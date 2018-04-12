@@ -10,7 +10,7 @@ bio-agency-text: U.S. NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
 bio-image-url: /assets/img/bio.wynn.renee.png
 bio-image-alt-text: Renee P. Wynn
 bio-phone: 202-358-1824
-bio-email: renee.p.wynn@nasa.gov
+bio-email:
 banner-heading: 
 banner-text: 
 banner-button-text: 
