@@ -9,8 +9,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. SMALL BUSINESS ADMINISTRATION
 bio-image-url: /assets/img/bio.roat.maria.png
 bio-image-alt-text: Maria Roat
-bio-phone: 202-205-6708
-bio-email: maria.roat@sba.gov
+bio-phone:
+bio-email:
 banner-heading: 
 banner-text: 
 banner-button-text: 
