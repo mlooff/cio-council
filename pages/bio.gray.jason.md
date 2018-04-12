@@ -9,8 +9,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF EDUCATION
 bio-image-url: /assets/img/bio.gray.jason.png
 bio-image-alt-text: Jason Gray
-bio-phone: 202-245-6252
-bio-email: Jason.gray@ed.gov
+bio-phone: 
+bio-email:
 banner-heading: 
 banner-text: 
 banner-button-text: 
