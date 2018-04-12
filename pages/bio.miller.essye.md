@@ -8,8 +8,8 @@ bio-title-text: ACTING CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF DEFENSE
 bio-image-url: /assets/img/bio.miller.essye.png
 bio-image-alt-text: Essye Miller
-bio-phone: 703-614-7323
-bio-email: osd.pentagon.dod-cio.mbx.pubs-audits@mail.mil 
+bio-phone: 
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
