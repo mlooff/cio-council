@@ -10,7 +10,7 @@ bio-agency-text: GENERAL SERVICES ADMINISTRATION
 bio-image-url: /assets/img/bio.shive.david.png
 bio-image-alt-text: David Shive
 bio-phone: 202-501-6468
-bio-email: david.shive@gsa.gov
+bio-email: 
 banner-heading: 
 banner-text: 
 banner-button-text: 
