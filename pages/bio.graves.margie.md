@@ -5,7 +5,7 @@ title: Margie Graves
 permalink: /about/members-and-leadership/margie-graves/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. MARGIE GRAVES
-bio-title-text: DEPUTY CHIEF INFORMATION OFFICER
+bio-title-text: FEDERAL DEPUTY CHIEF INFORMATION OFFICER
 bio-agency-text: 
 bio-image-url: /assets/img/bio.graves.margie.png
 bio-image-alt-text: Margie Graves
