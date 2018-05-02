@@ -16,7 +16,7 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-Suzette Kent serves as the U.S. Chief Information Officer at the Office of Management and Budget
+Suzette Kent serves as the U.S. Chief Information Officer at the Office of Management and Budget.
 
 Ms. Kent is an industry leader of large-scale business transformation using technology, for the world’s most complex organizations.  She most recently served as a principal at EY and has been a partner at Accenture, consulting president at Carreker Corporation and a Managing Director at JPMorgan. 
 
