@@ -16,7 +16,6 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-
 Due to technical difficulties, OMB may not have received comments submitted to ofcio@omb.eop.gov on May 3rd (Thursday) or May 4th (Friday). If you submitted a comment on either of these days, or if you would like to submit a new comment via email, please send a message with any attachments to Jordan Burris at Jordan.C.Burris@omb.eop.gov. We apologize for any inconvenience this may have caused and are extending the submission window for this comment period through <b>11:59pm Monday, May 7th.</b>
 
 <p><i>April 6, 2018 - Posted by: Office of the Federal Chief Information Officer</i></p>
