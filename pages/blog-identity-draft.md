@@ -2,6 +2,11 @@
 layout: blog
 body-class: home
 title: REQUEST FOR COMMENT - Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)
+blog-date: May 4, 2018
+blog-author: Office of the Federal Chief Information Officer
+
+Update as of 05/04/2018: Due to technical difficulties, OMB may not have received comments submitted to ofcio@omb.eop.gov on May 3rd (Thursday) or May 4th (Friday). If you submitted a comment on either of these days, or if you would like to submit a new comment via email, please send a message with any attachments to Jordan Burris at Jordan.C.Burris@omb.eop.gov. We apologize for any inconvenience this may have caused and are extending the submission window for this comment period through 11:59pm Monday, May 7th.
+
 blog-date: April 6, 2018
 blog-author: Office of the Federal Chief Information Officer
 blog-title: <!--REQUEST FOR COMMENT Strengthening the Cybersecurity of Federal Agencies through Improved Identity, Credential, and Access Management (ICAM)--> 
