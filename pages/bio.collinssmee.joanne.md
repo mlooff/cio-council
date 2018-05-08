@@ -5,7 +5,7 @@ title: Joanne Collins Smee
 permalink: /about/members-and-leadership/Joanne-Collins-Smee/
 background-image: /assets/img/grey.background.png
 bio-name-text: MS. JOANNE COLLINS SMEE
-bio-title-text: ACTING DIRECTOR, TECHNOLOGY TRANSFORMATION SERVICES
+bio-title-text: DIRECTOR, TECHNOLOGY TRANSFORMATION SERVICES & DEPUTY COMMISSIONER, FEDERAL ACQUISITION SERVICE
 bio-agency-text: U.S. GENERAL SERVICES ADMINISTRATION
 bio-image-url: /assets/img/bio.CollinsSmee.Joanne1.png
 bio-image-alt-text: Joanne Collins Smee
