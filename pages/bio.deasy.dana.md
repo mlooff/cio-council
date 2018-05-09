@@ -5,7 +5,7 @@ permalink: /about/members-and-leadership/mr-dana-deasy/
 background-image: /assets/img/grey.background.png
 bio-name-text: MR. DANA DEASY
 bio-title-text: CHIEF INFORMATION OFFICER,
-bio-agency-text: DEPARTMENT OF DEFENSE
+bio-agency-text: U.S. DEPARTMENT OF DEFENSE
 bio-image-url: /assets/img/Dana Deasy.png
 bio-image-alt-text: Dana Deasy
 bio-phone: 
