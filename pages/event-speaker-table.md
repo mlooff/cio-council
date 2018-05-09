@@ -35,7 +35,7 @@ banner-button-link:
 <tr style="text-align:center;">
 <td style="border:hidden;"><center><img src="/assets/img/Canva_GaryWashington_2.png" style="max-height:250px; max-width:250px;"><!--img src="/assets/img/event.winit.maria-roat_circle.png"--><br><a href="https://www.cio.gov/about/members-and-leadership/washington-gary/">Gary Washington<br>Chief Information Officer<br>U.S. Department of Agriculture</a></center></td>
 <td style="border:hidden;"><img src="/assets/img/Canva_ReneeWynn_2.png" style="max-height:250px; max-width:250px;"><br><center><a href="https://www.cio.gov/about/members-and-leadership/ms-renee-wynn/">Renee Wynn <br>Chief Information Officer<br>National Aeronautics and Space Administration (NASA)</a></center></td>
-<td style="border:hidden;"><img src="/assets/img/NewJoanneCollinsSmeeCircle.png" style="max-height:250px; max-width:250px;"><a href="https://www.cio.gov/about/members-and-leadership/Joanne-Collins-Smee/"><br><center>Joanne Collins-Smee <br>Director of Technology Transformation Services & Deputy Commissioner, Federal Acquisition Service <br> U.S. General Services Administration</center></a></td>
+<td style="border:hidden;"><img src="/assets/img/Joanne_CollinsSmeeCircle.png" style="max-height:250px; max-width:250px;"><a href="https://www.cio.gov/about/members-and-leadership/Joanne-Collins-Smee/"><br><center>Joanne Collins-Smee <br>Director of Technology Transformation Services & Deputy Commissioner, Federal Acquisition Service <br> U.S. General Services Administration</center></a></td>
 </tr>
 <br>
 <tr style="text-align:center;">
