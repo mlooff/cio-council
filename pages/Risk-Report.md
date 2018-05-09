@@ -5,7 +5,7 @@ title: Release of the Federal Cybersecurity Risk Determination Report and Action
 Blog Post
 permalink: /2018/05/11/Risk-Report/
 background-image: /assets/img/grey.background.png
-hero-text: Risk Report
+hero-text: Risk-Report
 hero-byline:
 hero-button-text: 
 hero-button-link: 
