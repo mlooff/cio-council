@@ -2,7 +2,7 @@
 layout: final-it-modernization-report
 body-class: home
 title: Final IT Modernization Report
-permalink: /2018/05/11/IT-modernization-report/
+permalink: /2018/05/11/IT-modernization-update/
 background-image: /assets/img/grey.background.png
 hero-text: IT Modernization Update
 hero-byline:
