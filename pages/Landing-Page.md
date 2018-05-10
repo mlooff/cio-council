@@ -10,5 +10,5 @@
 <p>The insights and findings from the report have helped bring clarity to issues and focus resources on the path forward.  Collectively, these actions are the catalyst to dramatically accelerate the Federal Government’s IT Modernization efforts to improve services and the security posture of Federal IT.</P> 
 
 <p>For more information regarding the IT Modernization Progress and the Release of the Federal Cybersecurity Risk Determination Report and Action Plan, please visit the blog entries below: </P
-<p>•	IT Modernization Progress Update</p>
-<p>•	Federal Cybersecurity Risk Determination Report and Action Plan</p> 
+<p>•	<a href="https://federalist-proxy.app.cloud.gov/preview/gsa/cio-council/development/2018/05/11/IT-Modernization-Update/IT"> Modernization Progress Update</a></p>
+<p>•	<a href="https://federalist-proxy.app.cloud.gov/preview/gsa/cio-council/development/2018/05/11/Risk-Report/">Federal Cybersecurity Risk Determination Report and Action Plan</a></p> 
