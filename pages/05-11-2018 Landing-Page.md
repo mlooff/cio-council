@@ -2,7 +2,7 @@
 layout: 05-11-18 Landing-Page
 body-class: home
 title: [Placeholder Title TBD]
-permalink: /2018/05/11/IT-Modernization-Update/
+permalink: /2018/05/11/Landing-Page/
 background-image: /assets/img/grey.background.png
 hero-text: [Placeholder Title TBD]
 hero-byline:
