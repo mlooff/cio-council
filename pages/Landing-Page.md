@@ -1,10 +1,10 @@
 ---
 layout: Landing-Page
 body-class: home
-title: PLACEHOLDER TITLE: TBD
+title: PLACEHOLDER TITLE
 permalink: /2018/05/11/Landing-Page/
 background-image: /assets/img/grey.background.png
-hero-text: PLACEHOLDER TITLE: TBD
+hero-text: PLACEHOLDER TITLE
 hero-byline:
 hero-button-text: 
 hero-button-link: 
