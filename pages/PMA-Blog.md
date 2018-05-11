@@ -1,5 +1,5 @@
 ---
-layout: IT-Mod-Landing-Page
+layout: PMA-Blog
 body-class: home
 title: PMA Blog
 permalink: /PMA-Blog/
