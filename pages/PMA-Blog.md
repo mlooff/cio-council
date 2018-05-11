@@ -2,7 +2,7 @@
 layout: IT-Mod-Landing-Page
 body-class: home
 title: PMA Blog
-permalink: /2018/05/11/IT-Modernization-Report-Updates/
+permalink: /PMA-Blog/
 background-image: /assets/img/grey.background.png
 hero-text: PMA Blog
 hero-byline:
