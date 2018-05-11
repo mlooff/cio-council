@@ -1,5 +1,5 @@
 ---
-layout: IT-Mod-Landing-Page
+layout: risk-report
 body-class: home
 title: Release of the Federal Cybersecurity Risk Determination Report and Action Plan to the President of the United States
 permalink: /2018/05/11/risk-report/
