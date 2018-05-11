@@ -1,10 +1,10 @@
 ---
-layout: PMA-Blog.html
+layout: risk-report
 body-class: home
-title: PMA Blog
+title: PMA-Blog
 permalink: /PMA-Blog/
 background-image: /assets/img/grey.background.png
-hero-text: PMA Blog
+hero-text: PMA-Blog
 hero-byline:
 hero-button-text: 
 hero-button-link: 
