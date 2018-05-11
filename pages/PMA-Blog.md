@@ -1,5 +1,5 @@
 ---
-layout: PMA-Blog
+layout: PMA-Blog.html
 body-class: home
 title: PMA Blog
 permalink: /PMA-Blog/
