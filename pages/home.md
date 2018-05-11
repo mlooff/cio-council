@@ -8,7 +8,7 @@ hero-byline: Report to the President on Federal IT Modernization
 hero-button-text: Read
 hero-button-link: /2017/12/22/final-it-modernization-report/
 banner-heading: NEWS AND UPDATES
-banner-text: <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">READ THE LATEST FROM THE CIO COMMUNITY</A>
+banner-text: <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">May 11, 2015 READ THE LATEST FROM THE CIO COMMUNITY</A>
 banner-button-text: 
 banner-button-link: 
 ---
