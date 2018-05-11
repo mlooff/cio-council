@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/ciodotgovbanner.jpg
+hero-image: /assets/img/ciodotgovbanner.png
 hero-text: "THE ACTIONS ARTICULATED IN THE REPORT WILL COMPLIMENT AGENCY EFFORTS TO MODERNIZE CITIZEN FACING SERVICES – BY MOVING TO A MORE SECURE, AGILE, AND COST EFFECTIVE INFRASTRUCTURE, MUCH OF WHICH WILL BE PROVIDED BY SHARED SERVICES. "
 hero-byline: Report to the President on Federal IT Modernization
 hero-button-text: Read
