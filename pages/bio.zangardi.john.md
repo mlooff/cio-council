@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: DR. JOHN ZANGARDI
 bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF HOMELAND SECURITY
-bio-image-url: bio.zangardi.john.png
+bio-image-url: assets/img/bio.zangardi.john.png
 bio-image-alt-text: Dr. John Zangardi
 bio-phone: (202) 447-0005
 bio-email: John.Zangardi@hq.dhs.gov
