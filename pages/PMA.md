@@ -1,10 +1,10 @@
 ---
 layout: PMA
 body-class: home
-title: Cross-Agency Priority (CAP) Goals Implementation
+title: "President's Management Agenda: Cross-Agency Priority Goals"
 permalink: /PMA/
 background-image: /assets/img/grey.background.png
-hero-text: Cross-Agency Priority (CAP) Goals Implementation
+hero-text: "President's Management Agenda: Cross-Agency Priority Goals"
 hero-byline:
 hero-button-text: 
 hero-button-link: 
