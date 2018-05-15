@@ -7,11 +7,13 @@ layout: base
     <div class="usa-grid"  style="text-align:center">
  
       <div class="usa-width-whole">
-        <h3 style="font-family: 'Montserrat', sans-serif; COLOR: #787878; font-size: 20px;">{{ page.hero-text }}</h3>
-        <BR>
-        <p style="font-family: 'Raleway'; COLOR: #d4b22a; font-size: 14px;">{{ page.hero-byline2 }}</p>
-        <p style="font-family: 'Raleway'; COLOR: #787878; font-size: 14px;">{{ page.hero-byline }}</p>
-        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
+        <div style="padding: 25px;">
+          <h3 style="font-family: 'Montserrat', sans-serif; COLOR: #787878; font-size: 20px; text-align: left;">"{{ page.hero-text }}"</h3>
+          <BR>
+          <p style="font-family: 'Raleway', sans-serif; COLOR: #d4b22a; font-size: 14px; text-align: left;">{{ page.hero-byline2 }}</p>
+          <p style="font-family: 'Raleway', sans-serif; COLOR: #787878; font-size: 14px; text-align: left;">{{ page.hero-byline }}</p>
+          <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
+        </div>
       </div>
       
 </div>
