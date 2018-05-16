@@ -7,7 +7,7 @@ hero-text: "Agency IT modernization plans must be focused on delivering better s
 hero-byline2: "PRESIDENT'S MANAGEMENT AGENDA"
 hero-byline: LEARN MORE ABOUT THE ROLE OF THE CIO COUNCIL IN IMPLEMENTING THE CROSS-AGENCY PRIORITY GOALS.
 hero-button-text: Read More
-hero-button-link: /PMA-landing
+hero-button-link: /PMA-landing/
 banner-heading: 
 banner-text: 
 banner-button-text: 
