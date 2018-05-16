@@ -2,7 +2,7 @@
 layout: PMA
 body-class: home
 title: "President's Management Agenda: Cross-Agency Priority Goals"
-permalink: /PMA-landing
+permalink: /PMA-landing/
 background-image: /assets/img/grey.background.png
 hero-text: "President's Management Agenda: Cross-Agency Priority Goals"
 hero-byline:
