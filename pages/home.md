@@ -9,7 +9,8 @@ hero-byline: LEARN MORE ABOUT THE ROLE OF THE CIO COUNCIL IN IMPLEMENTING THE CR
 hero-button-text: Read More
 hero-button-link: /PMA-landing/
 banner-heading: NEWS AND UPDATES
-banner-text: <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">May 11, 2015 READ THE LATEST FROM THE CIO COMMUNITY</A>
+banner-text: <A HREF="https://www.cio.gov/cioc-blog/">May 4, 2018 READ THE LATEST FROM THE CIO COMMUNITY</A>
+banner-text: <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">March 15, 2015 READ THE LATEST FROM THE CIO COMMUNITY</A>
 banner-button-text: 
 banner-button-link: 
 ---
