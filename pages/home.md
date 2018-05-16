@@ -1,7 +1,7 @@
 ---
 layout: home
 body-class: home
-permalink: /PMA-landing
+permalink: /
 hero-image: /assets/img/ciodotgovbanner-gear3.png
 hero-text: "Agency IT modernization plans must be focused on delivering better service to the public, and in doing so should be developed in furtherance of these priorities. This will result in building and maintaining a modern, secure, and resilient IT, which improves the lives of the American public."
 hero-byline2: "PRESIDENT'S MANAGEMENT AGENDA"
