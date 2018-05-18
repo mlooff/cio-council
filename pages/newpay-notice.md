@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: notice
 body-class: home
 title: NewPay Pre-Solicitation Notice Release
 permalink: /newpay-notice/
 background-image: /assets/img/grey.background.png
 hero-text: NewPay Pre-Solicitation Notice Release
+blog-author: CIOC Support
 hero-byline:
 hero-button-text: 
 hero-button-link: 
