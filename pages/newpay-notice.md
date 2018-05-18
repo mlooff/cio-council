@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: base
 body-class: home
 title: NewPay Pre-Solicitation Notice Release
 permalink: /newpay-notice/
