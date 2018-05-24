@@ -8,8 +8,8 @@ bio-title-text: CHIEF INFORMATION OFFICER,
 bio-agency-text: U.S. DEPARTMENT OF DEFENSE
 bio-image-url: /assets/img/Dana Deasy.png
 bio-image-alt-text: Dana Deasy
-bio-phone: 
-bio-email: 
+bio-phone: 703-614-7323
+bio-email: osd.pentagon.dod-cio.mbx.front-office@mail.mil 
 banner-heading: 
 banner-text: 
 banner-button-text: 
