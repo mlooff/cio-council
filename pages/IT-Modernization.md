@@ -2,7 +2,7 @@
 layout: IT-Modernization
 body-class: home
 title: UNDER CONSTRUCTION
-permalink: /2018/05/11/IT-Modernization/
+permalink: /2018/05/30/IT-Modernization/
 background-image: /assets/img/grey.background.png
 hero-text: UNDER CONSTRUCTION
 hero-byline:
