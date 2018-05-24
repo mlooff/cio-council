@@ -2,7 +2,7 @@
 layout: IT-Modernization-Update
 body-class: home
 title: IT Modernization Update
-permalink: /2018/05/11/IT-Modernization-Update/
+permalink: /2018/05/30/IT-Modernization-Update/
 background-image: /assets/img/grey.background.png
 hero-text: IT Modernization Update
 hero-byline:
