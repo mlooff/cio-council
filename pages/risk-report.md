@@ -2,7 +2,7 @@
 layout: risk-report
 body-class: home
 title: UNDER CONSTRUCTION
-permalink: /2018/05/30/risk-report/
+permalink: /2018/05/30/Risk-Report/
 background-image: /assets/img/grey.background.png
 hero-text: UNDER CONSTRUCTION
 hero-byline:
