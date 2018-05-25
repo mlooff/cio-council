@@ -9,6 +9,9 @@ bio-title-text: ACTING CHIEF INFORMATION OFFICER
 bio-agency-text: U.S. DEPARTMENT OF VETERANS AFFAIRS
 bio-image-url: /assets/img/CamiloSandoval.png
 bio-image-alt-text: Mr. Camilo Sandoval, Acting Chief Information Officer of the U.S. Department of Veterans Affairs
+bio-phone: 202-461-6910
+bio-email: Camilo.Sandoval@va.gov 
+
 banner-heading: 
 banner-text: 
 banner-button-text: 
