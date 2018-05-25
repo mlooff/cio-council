@@ -2,7 +2,7 @@
 layout: Landing-Page
 body-class: home
 title: Implementation of the Report to the President on Federal IT Modernization
-permalink: /2018/05/30/IT-Modernization-Updates/
+permalink: /2018/05/30/IT-Modernization-Report-Updates/
 background-image: /assets/img/grey.background.png
 hero-text: Implementation of the Report to the President on Federal IT Modernization
 hero-byline:
