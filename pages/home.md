@@ -15,7 +15,7 @@ banner-text:
   - <A HREF="https://www.cio.gov/2018/04/06/identity-draft/">May 4, 2018 - Strengthening the Cybersecurity of Federal Agencies 
     through Improved Identity, Credential, and Access Management (ICAM)</A><br>
     
-  - <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">March 15, 2018 - Innovation Sandbox Launch</A> <br><br>
+  - <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">March 15, 2018 - Innovation Sandbox Pilot Launch</A> <br><br>
 
 banner-button-text: 
 banner-button-link: 
