@@ -1,10 +1,10 @@
 ---
 layout: Landing-Page
 body-class: home
-title: Implementation of the Report to the President on Federal IT Modernization
+title: EO 13800 and Updates on Federal IT Modernization Efforts
 permalink: /2018/05/30/IT-Modernization-Report-Updates/
 background-image: /assets/img/grey.background.png
-hero-text: Implementation of the Report to the President on Federal IT Modernization
+hero-text: EO 13800 and Updates on Federal IT Modernization Efforts
 hero-byline:
 hero-button-text: 
 hero-button-link: 
