@@ -10,7 +10,7 @@ hero-button-text: Read More
 hero-button-link: /PMA-landing/
 banner-heading: NEWS AND UPDATES
 banner-text: 
-  - <a href="www.cio.gov/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization          Efforts</a><br>
+  - <a href="/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization          Efforts</a><br>
   
   - <a href="https://www.cio.gov/newpay-notice/"> May 18, 2018 - NewPay Pre-Solicitation Notice Release</a><br>
   
