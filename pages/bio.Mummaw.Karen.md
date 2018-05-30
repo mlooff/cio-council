@@ -7,7 +7,7 @@ background-image: /assets/img/grey.background.png
 bio-name-text: MS. KAREN MUMMAW
 bio-title-text: ACTING CHIEF INFORMATION OFFICER
 bio-agency-text: U.S. DEPARTMENT OF STATE
-bio-image-url: /assets/img/bio.MummawKaren.png
+bio-image-url: /assets/img/Mammaw.png
 bio-image-alt-text: Karen Mummaw
 banner-heading: 
 banner-text: 
