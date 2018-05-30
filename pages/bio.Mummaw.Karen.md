@@ -9,6 +9,8 @@ bio-title-text: ACTING CHIEF INFORMATION OFFICER
 bio-agency-text: U.S. DEPARTMENT OF STATE
 bio-image-url: /assets/img/Mammaw.png
 bio-image-alt-text: Karen Mummaw
+bio-phone: 202-647-6575
+bio-email: mummawke@state.gov 
 banner-heading: 
 banner-text: 
 banner-button-text: 
