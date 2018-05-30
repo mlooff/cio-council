@@ -1,7 +1,7 @@
 ---
 layout: IT-Modernization
 body-class: home
-title: IT MODERNIZATION UPDATE
+title: IT Modernization Update
 permalink: /2018/05/30/IT-Modernization/
 background-image: /assets/img/grey.background.png
 hero-text: IT Modernization Update
