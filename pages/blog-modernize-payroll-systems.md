@@ -7,7 +7,7 @@ blog-author: Beth Angerman
 blog-title: The time to modernize government payroll systems is now
 permalink: /2018/05/31/modernize-government-payroll-systems/
 background-image: /assets/img/grey.background.png
-hero-text:
+hero-text: The time to modernize government payroll systems is now
 hero-byline:
 hero-button-text: 
 hero-button-link: 
