@@ -10,6 +10,7 @@ hero-button-text: Read More
 hero-button-link: /PMA-landing/
 banner-heading: NEWS AND UPDATES
 banner-text: 
+   - <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">May 30, 2018 - EO 13800 and Updates on Federal IT Modernization Efforts</A> <br><br>
   - <A HREF="https://fcw.com/articles/2018/05/30/comment-payroll-cloud-gsa-angerman.aspx">May 30, 2018 - The time to modernize government payroll systems is now [FCW]</A> <br><br>
   - <A HREF="https://www.cio.gov/2018/03/15/innovation-sandbox-launch/">March 15, 2018 READ THE LATEST FROM THE CIO COMMUNITY</A> <br><br>
   - <A HREF="https://www.cio.gov/2018/04/06/identity-draft/">May 4, 2018 Strengthening the Cybersecurity of Federal Agencies 
