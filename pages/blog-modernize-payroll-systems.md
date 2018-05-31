@@ -17,7 +17,7 @@ banner-button-text:
 banner-button-link: 
 ---
 
-<i>This blog entry was previously published in <a href="https://fcw.com/articles/2018/05/30/comment-payroll-cloud-gsa-angerman.aspx">FCW </a>on May 30, 2018. </i>
+<i>This blog entry was previously published in <a href="https://fcw.com/articles/2018/05/30/comment-payroll-cloud-gsa-angerman.aspx">FCW </a>on May 30, 2018. </i><br>
 <br>
 The federal government faces a pressing need to modernize and improve the way it runs its payroll business.<br><br>
 Every two weeks it pays over 2.2 million civilian employees with systems that are almost as old as the employees themselves. The average age of a federal employee is about 47, and some components of our federal payroll systems are over 40 years old. These components predate the internet, the personal computer and mobile phones. We can do better.<br><br>
