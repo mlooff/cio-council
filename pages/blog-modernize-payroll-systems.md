@@ -1,7 +1,7 @@
 ---
 layout: blog
 body-class: home
-title: The time to modernize government payroll systems is now
+title: 
 blog-date: May 31, 2018
 blog-author: Beth Angerman
 blog-title:
