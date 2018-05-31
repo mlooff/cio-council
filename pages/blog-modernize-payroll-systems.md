@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: The time to modernize government payroll systems is now
 blog-date: May 31, 2018
-blog-author: Beth Angerman
+blog-author: Beth Angerman, Deputy Associate Administrator, Office of Shared Solutions and Performance Improvement, GSA
 blog-title:
 permalink: /2018/05/31/modernize-government-payroll-systems/
 background-image: /assets/img/grey.background.png
