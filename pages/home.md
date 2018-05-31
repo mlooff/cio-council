@@ -10,6 +10,8 @@ hero-button-text: Read More
 hero-button-link: /PMA-landing/
 banner-heading: NEWS AND UPDATES
 banner-text: 
+  - <a href="/2018/05/31/modernize-government-payroll-systems/"> May 31, 2018 - The Time to Modernize government Payroll Systems is Now</a><br>
+  
   - <a href="/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization                   Efforts</a><br>
   
   - <a href="https://www.cio.gov/newpay-notice/"> May 18, 2018 - NewPay Pre-Solicitation Notice Release</a><br>
