@@ -7,7 +7,7 @@ blog-author: Beth Angerman, Deputy Associate Administrator, Office of Shared Sol
 blog-title:
 permalink: /2018/05/31/modernize-government-payroll-systems/
 background-image: /assets/img/grey.background.png
-hero-text: The time to modernize government payroll systems is now
+hero-text: The Time to Modernize Government Payroll Systems is Now
 hero-byline:
 hero-button-text: 
 hero-button-link: 
