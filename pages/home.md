@@ -10,6 +10,9 @@ hero-button-text: Read More
 hero-button-link: /PMA-landing/
 banner-heading: NEWS AND UPDATES
 banner-text: 
+
+  - <a href="https:/2018/06/07/First-TMF-Awards/"> May 31, 2018 - Technology Modernization Board Awards First Round Of Funding For Modernizing Agency Technology</a><br>
+  
   - <a href="/2018/05/31/modernize-government-payroll-systems/"> May 31, 2018 - The Time to Modernize Government Payroll Systems is Now</a><br>
   
   - <a href="/2018/05/30/IT-Modernization-Report-Updates/"> May 30, 2018 - EO 13800 and Updates on Federal IT Modernization                   Efforts</a><br>
