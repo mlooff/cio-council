@@ -5,7 +5,7 @@ title: Technology Modernization Board Awards First Round Of Funding For Moderniz
 blog-date: June 07, 2018
 blog-author: Office of the Federal Chief Information Officer 
 blog-title:
-permalink: /2018/06/07/Agency-Technology/
+permalink: /2018/06/07/First-TMF-Awards/
 background-image: /assets/img/grey.background.png
 hero-text: Technology Modernization Board Awards First Round Of Funding For Modernizing Agency Technology
 hero-byline:
