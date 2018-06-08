@@ -1,5 +1,5 @@
 ---
-layout: IT-Modernization
+layout: Agency-Technology
 body-class: home
 title: Technology Modernization Board Awards First Round Of Funding For Modernizing Agency Technology
 permalink: /2018/06/07/Agency-Technology/
