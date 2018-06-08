@@ -22,7 +22,9 @@ The Board approved proposals submitted by the Department of Energy, the Departme
 
 "Today's funding awards are important to the Administration's commitment to modernizing the Federal Government," said Suzette Kent, Federal Chief Information Officer and Chairwoman of the TMF Board. "These proposals show the need to update our federal infrastructure and create new operating models that align with aggressive technology transformation. The Board believes these projects deliver citizen benefits, meet the specific technology transformation goals defined in the MGT Act, have agency leadership support, and contains effective cost savings strategy that are at the heart of the TMF model."
 
-"The Technology Modernization Fund provides Federal agencies with a novel, new approach to investing in modern technology solutions that will bring about the updated, enhanced and secure platforms necessary to better serve our citizens," said Emily W. Murphy, Administrator of the U.S. General Services Administration. "Today's announcement marks an important milestone for the future of IT modernization across the Federal Government. I am particularly pleased with the role GSA's TMF project management office has played, in concert with the Board, in getting us to these first awards."
+"The Technology Modernization Fund provides Federal agencies with a novel, new approach to investing in modern technology solutions that will bring about the updated, enhanced and secure platforms necessary to better serve our citizens," said Emily W. Murphy, Administrator of the U.S. General Services Administration. 
+
+"Today's announcement marks an important milestone for the future of IT modernization across the Federal Government. I am particularly pleased with the role GSA's TMF project management office has played, in concert with the Board, in getting us to these first awards."
 
 Below are the awarded agencies and their proposals:
 
