@@ -16,7 +16,6 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-<br>
 Washington, D.C. - The Technology Modernization Board, chaired by the Federal Chief Information Officer in the Office of Management and Budget, announced its first round of funding awards under the Technology Modernization Fund (TMF). TMF was authorized by Congress as a mechanism to finance technology modernization efforts across the Federal Government.
 
 The Board approved proposals submitted by the Department of Energy, the Department of Housing and Urban Development and the Department of Agriculture. "The Technology Modernization Fund is an innovative funding model that allows Agencies to accelerate key IT modernization projects in support of the President's Management Agenda." Said Margaret Weichert, Deputy Director of Management at the Office of Management and Budget, "I am proud to see these first projects go through the rigorous TMF Board evaluation process and be awarded funding so quickly."
@@ -28,13 +27,13 @@ The Board approved proposals submitted by the Department of Energy, the Departme
 Below are the awarded agencies and their proposals:
 
 Department of Energy
-Proposal: Enterprise Cloud Email Migration Acceleration
-Awarded amount: $15 Million
-
+<br>Proposal: Enterprise Cloud Email Migration Acceleration
+<br>Awarded amount: $15 Million
+<br><br>
 Department of Housing and Urban Development
-Proposal: Mainframe Application Migration Acceleration
-Awarded amount: $20 Million
-
+<br>Proposal: Mainframe Application Migration Acceleration
+<br>Awarded amount: $20 Million
+<br><br>
 United States Department of Agriculture
-Proposal: Farmers.gov Customer Experience Portal
-Awarded amount: $10 Million
+<br>Proposal: Farmers.gov Customer Experience Portal
+<br>Awarded amount: $10 Million
