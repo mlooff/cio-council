@@ -2,7 +2,7 @@
 layout: blog
 body-class: home
 title: Technology Modernization Board Awards First Round Of Funding For Modernizing Agency Technology
-blog-date: June 08, 2018
+blog-date: June 07, 2018
 blog-author: Office of the Federal Chief Information Officer 
 blog-title:
 permalink: /2018/06/07/Agency-Technology/
