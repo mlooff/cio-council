@@ -21,12 +21,12 @@ assigned:
             -
                 text: 'Microloans for Farmers'
                 href: pages/projects/microloans-for-farmers.md
-                show_in_menu: false
+                show_in_menu: true
                 show_in_footer: false
             -
                 text: 'Reducing Summer Melt'
                 href: pages/projects/reducing-summer-melt.md
-                show_in_menu: false
+                show_in_menu: true
                 show_in_footer: false
     -
         text: 'News'
