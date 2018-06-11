@@ -17,7 +17,7 @@ assigned:
         permalink: /hiringevent/info/
         show_in_menu: true
         show_in_footer: true
-        children:
+        children: true
             -
                 text: 'Microloans for Farmers'
                 href: pages/projects/microloans-for-farmers.md
