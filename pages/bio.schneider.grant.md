@@ -16,4 +16,4 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-Biography Coming Soon
+Official biography information coming soon. 
