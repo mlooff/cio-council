@@ -70,13 +70,11 @@
   <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
       <a class="usa-nav-link" href="{{ nav.permalink | prepend: sit.basurl }}"><span>{{ nav.text }}</span></a>
     </button>
-    <ul id="basic-nav-section-one" class="usa-nav-submenu"><li>
-              <a href="#">Subsection title</a>
-            </li><li>
-              <a href="#">Subsection title</a>
-            </li><li>
-              <a href="#">Subsection title</a>
-            </li>
+    <ul id="basic-nav-section-one" class="usa-nav-submenu">
+      {% for sub in nav.sub %}
+        {% if sub.show_in_menu %}
+      <li><a href="{{ sub.permalink | prepend: site.baseurl }}">{{ sub.text }}</a></li>
+       {% endfor %}
     </ul>
      {% endif %}
     {% endfor %}
