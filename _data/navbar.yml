@@ -17,7 +17,7 @@ assigned:
         permalink: /cioc-initiatives/
         show_in_menu: true
         show_in_footer: true
-        children:
+        sub:
             -
                 text: 'Microloans for Farmers'
                 href: pages/projects/microloans-for-farmers.md
@@ -45,18 +45,18 @@ assigned:
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
-        show_in_footer: true
+        show_in_footer: false
     -
         text: Resources
         href: pages/resources.md
         permalink: /resources/
         show_in_menu: true
-        show_in_footer: true
+        show_in_footer: false
     -
         text: Fed IT Topics
         href: pages/fed-it-topics.md
         permalink: /fed-it-topics/
         show_in_menu: true
-        show_in_footer: true
+        show_in_footer: false
 
 unassigned: []
