@@ -63,8 +63,12 @@
       <button class="usa-nav-close">
   <img src="/assets/img/close.svg" alt="close">
 </button>
-<ul class="usa-nav-primary usa-accordion"><li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
-      <span>Section title</span>
+<ul class="usa-nav-primary usa-accordion">
+  {% assign navs = site.data.navbar.assigned %}
+      {% for nav in navs %}
+        {% if nav.show_in_menu %}
+  <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
+      <a class="usa-nav-link" href="{{ nav.permalink | prepend: sit.basurl }}"><span>{{ nav.text }}</span></a>
     </button>
     <ul id="basic-nav-section-one" class="usa-nav-submenu"><li>
               <a href="#">Subsection title</a>
@@ -72,6 +76,10 @@
               <a href="#">Subsection title</a>
             </li><li>
               <a href="#">Subsection title</a>
-            </li></ul></li>
+            </li>
+    </ul>
+     {% endif %}
+    {% endfor %}
+  </li>
 </div>
 </header>
