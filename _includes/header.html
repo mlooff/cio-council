@@ -74,7 +74,7 @@
       {% for sub in nav.sub %}
         {% if sub.show_in_menu %}
       <li><a href="{{ sub.permalink | prepend: site.baseurl }}">{{ sub.text }}</a></li>
-       {% endfor %}
+
     </ul>
      {% endif %}
     {% endfor %}
