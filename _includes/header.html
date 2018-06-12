@@ -74,10 +74,9 @@
               <!-- 2nd level -->
               {% for sub in nav.sub %}
               <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
-      <span>
                 <a tabindex="0" href="{{ sub.permalink | prepend: site.baseurl }}">
                   {{ sub.text }}
-        </a></span></button>
+        </a></button>
               </li>
               {% endfor %}
             </ul>
