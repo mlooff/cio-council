@@ -73,13 +73,15 @@
             <ul id="basic-nav-section-one" class="usa-nav-submenu">
               <!-- 2nd level -->
               {% for sub in nav.sub %}
-              <li>
+              <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
+      <span>
                 <a tabindex="0" href="{{ sub.permalink | prepend: site.baseurl }}">
                   {{ sub.text }}
-                </a>
+        </a></span></button>
               </li>
               {% endfor %}
             </ul>
+           </li>
           </li>
       
         {% else %}
