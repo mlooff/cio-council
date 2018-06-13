@@ -1,9 +1,9 @@
 assigned:
     -
         text: Priorities
-        href: pages/cioc-priorities.md
-        permalink: /cioc-priorities/
-        show_in_menu: true
+        href: 
+        permalink: 
+        show_in_menu: false
         show_in_footer: true
         sub:
             -
