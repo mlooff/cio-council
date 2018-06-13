@@ -14,7 +14,7 @@ html {
  *    without disabling user zoom.
  */
 html {
-  font-family: sans-serif;
+  font-family: 'open sans', sans-serif;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
