@@ -18,6 +18,12 @@ assigned:
                 href: pages/projects/reducing-summer-melt.md
                 show_in_menu: true
                 show_in_footer: false
+             -
+                text: 'Reducing Summer Melt'
+                permalink: /projects/reducing-summer-melt/
+                href: pages/projects/reducing-summer-melt.md
+                show_in_menu: true
+                show_in_footer: false               
     -
         text: Initiatives
         href: pages/cioc-initiatives.md
