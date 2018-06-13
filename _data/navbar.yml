@@ -5,12 +5,6 @@ assigned:
         permalink: /cioc-priorities/
         show_in_menu: true
         show_in_footer: true
-    -
-        text: Initiatives
-        href: pages/cioc-initiatives.md
-        permalink: /cioc-initiatives/
-        show_in_menu: true
-        show_in_footer: true
         sub:
             -
                 text: 'Microloans for Farmers'
@@ -24,9 +18,15 @@ assigned:
                 href: pages/projects/reducing-summer-melt.md
                 show_in_menu: true
                 show_in_footer: false
-
     -
-       text: About
+        text: Initiatives
+        href: pages/cioc-initiatives.md
+        permalink: /cioc-initiatives/
+        show_in_menu: true
+        show_in_footer: true
+        
+    -
+        text: About
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
