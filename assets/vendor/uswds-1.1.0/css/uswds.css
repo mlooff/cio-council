@@ -3705,18 +3705,18 @@ input.usa-input-medium {
 
 .usa-nav-primary a {
   border: none;
-  color: #212121;
+  color: #;
   display: block;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   line-height: 1.3;
   padding: 0.85rem 1rem 0.85rem 1.8rem;
   text-decoration: none;
 }
 
 .usa-nav-primary a:hover {
-  background-color: #e4e2e0;
+  background-color: #ffffff;
   color: #515151;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .usa-nav-primary a:focus {
