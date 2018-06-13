@@ -3663,8 +3663,8 @@ input.usa-input-medium {
 }
 
 .usa-nav .usa-current {
-  border-left: 4px solid #0071bc;
-  color: #0071bc;
+  border-left: 4px solid #ffffff;
+  color: #ffffff;
   font-weight: 700;
   padding-left: 1.4rem;
 }
@@ -3714,8 +3714,8 @@ input.usa-input-medium {
 }
 
 .usa-nav-primary a:hover {
-  background-color: #f1f1f1;
-  color: #0071bc;
+  background-color: #d6d6d6;
+  color: #515151;
   text-decoration: none;
 }
 
@@ -3727,7 +3727,7 @@ input.usa-input-medium {
 .usa-nav-primary a.usa-current {
   /* stylelint-disable-line selector-no-qualifying-type */
   border-left: 4px solid #0071bc;
-  color: #0071bc;
+  color: #ffffff;
   font-weight: 700;
   padding-left: 1.4rem;
 }
@@ -3846,14 +3846,14 @@ input.usa-input-medium {
 
 @media screen and (min-width: 951px) {
   .usa-nav-primary button[aria-expanded=true] {
-    background-color: #112e51;
+    background-color: #d6d6d6;
     color: #ffffff;
     background-image: url("../img/angle-arrow-down-hover.png");
     background-image: url("../img/angle-arrow-down-hover.svg");
     background-position: right 1.5rem top 44%;
   }
   .usa-nav-primary button[aria-expanded=true]:hover {
-    background-color: #112e51;
+    background-color: #d6d6d6;
   }
   .usa-nav-primary button[aria-expanded=true] span {
     border-bottom: 0.7rem solid #0071bc;
@@ -4014,7 +4014,7 @@ input.usa-input-medium {
     padding-left: 0;
     padding-top: 1.15rem;
     padding-bottom: 1.15rem;
-    background-color: #112e51;
+    background-color: #d6d6d6;
     min-width: 21.5rem;
     width: auto;
     position: absolute;
@@ -4037,7 +4037,7 @@ input.usa-input-medium {
 
 @media screen and (min-width: 951px) {
   .usa-nav-submenu a:hover {
-    background-color: #112e51;
+    background-color: #d6d6d6;
     color: #ffffff;
     text-decoration: underline;
   }
