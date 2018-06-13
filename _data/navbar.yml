@@ -19,9 +19,9 @@ assigned:
                 show_in_menu: true
                 show_in_footer: false
              -
-                text: 'Reducing Summer Melt'
-                permalink: /projects/reducing-summer-melt/
-                href: pages/projects/reducing-summer-melt.md
+                text: 'NewPay Notice'
+                permalink: /newpay-notice/
+                href: newpay-notice.md
                 show_in_menu: true
                 show_in_footer: false               
     -
