@@ -2168,7 +2168,7 @@ dfn {
   color: #212121;
   cursor: pointer;
   display: inline-block;
-  font-family: "Source Sans Pro", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "Raleway", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-weight: 700;
   margin: 0;
   padding: 1.5rem 5.5rem 1.5rem 3rem;
@@ -3848,7 +3848,7 @@ input.usa-input-medium {
 @media screen and (min-width: 951px) {
   .usa-nav-primary button[aria-expanded=true] {
     background-color: #e4e2e0;
-    color: #ffffff;
+    color: ##5b616b;
     background-image: url("../img/angle-arrow-down-hover.png");
     background-image: url("../img/angle-arrow-down-hover.svg");
     background-position: right 1.5rem top 44%;
