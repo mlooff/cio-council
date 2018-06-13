@@ -73,10 +73,7 @@
                 {% endfor %}
                 </ul>
               </li>
-            {% elsif nav.text == page.text %}
-               <li class="active">
-                 <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.text }}</a>
-               </li>
+            
             {% else %} 
               <li>
                 <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.text }}</a>
