@@ -1,11 +1,5 @@
 assigned:
     -
-        text: Home
-        href: pages/home.md
-        permalink: /
-        show_in_menu: false
-        show_in_footer: true
-    -
         text: Priorities
         href: pages/cioc-priorities.md
         permalink: /cioc-priorities/
@@ -31,7 +25,8 @@ assigned:
                 show_in_menu: true
                 show_in_footer: false
 
-        text: About
+    -
+       text: About
         href: pages/about.md
         permalink: /about/
         show_in_menu: true
@@ -46,7 +41,7 @@ assigned:
         text: Fed IT Topics
         href: pages/fed-it-topics.md
         permalink: /fed-it-topics/
-        show_in_menu: true
+        show_in_menu: false
         show_in_footer: false
 
 unassigned: []
