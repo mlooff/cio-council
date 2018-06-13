@@ -65,7 +65,7 @@
       <!-- 1st level -->
             {% for nav in navs %}
             {% if nav.sub != null %}
-              <li><button class="usa-accordion-button usa-nav-link">
+              <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
                 <a href="{{ nav.permalink | prepend: site.baseurl }}">{{ nav.text }}</a></button>
                 <ul id="basic-nav-section-one" class="usa-nav-submenu">
                 {% for sub in nav.sub %}
