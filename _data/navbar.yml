@@ -30,19 +30,7 @@ assigned:
                 href: pages/projects/reducing-summer-melt.md
                 show_in_menu: true
                 show_in_footer: false
-    -
-        text: 'News'
-        href: pages/team.md
-        permalink: /team/
-        show_in_menu: false
-        show_in_footer: false
-    -
-        text: Members
-        href: pages/members-and-leadership.md
-        permalink: /about/members-and-leadership/
-        show_in_menu: true
-        show_in_footer: false
-    -
+
         text: About
         href: pages/about.md
         permalink: /about/
