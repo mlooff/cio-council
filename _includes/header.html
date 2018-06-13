@@ -59,25 +59,29 @@
         </em>
       </div>
     </div>
-    <nav role="navigation" class="usa-nav">
-      <button class="usa-nav-close">
-  <img src="/assets/img/close.svg" alt="close">
-</button>
-<ul class="usa-nav-primary usa-accordion">
-  {% assign navs = site.data.navbar.assigned %}
-      {% for nav in navs %}
-        {% if nav.show_in_menu %}
-  <li><button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="basic-nav-section-one">
-      <a class="usa-nav-link" href="{{ nav.permalink | prepend: sit.basurl }}"><span>{{ nav.text }}</span></a>
-    </button>
-    <ul id="basic-nav-section-one" class="usa-nav-submenu">
-      {% for sub in nav.sub %}
-        {% if sub.show_in_menu %}
-      <li><a href="{{ sub.permalink | prepend: site.baseurl }}">{{ sub.text }}</a></li>
-
-    </ul>
-     {% endif %}
-    {% endfor %}
-  </li>
-</div>
+       <nav role="navigation" class="usa-nav">
+        <ul class="usa-nav-primary usa-accordion">
+          {% for nav in site.data.nav %}
+            {% if nav.subcategories != null %}
+              <li><button class="usa-accordion-button usa-nav-link">
+                <a href="{{ site.url }}{{ nav.url }}">{{ nav.text }}</a></button>
+                <ul id="basic-nav-section-one" class="usa-nav-submenu">
+                {% for sub in nav.sub %}
+                  <li><a href="{{ site.url }}{{ sub.href }}">{{ sub.text }}</a></li>
+                {% endfor %}
+                </ul>
+              </li>
+            {% elsif nav.text == page.text %}
+               <li class="active">
+                 <a href="{{ nav.url }}">{{ nav.text }}</a>
+               </li>
+            {% else %} 
+              <li>
+                <a href="{{ site.url }}{{ nav.href }}">{{ nav.text }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav> 
+  </div>
 </header>
