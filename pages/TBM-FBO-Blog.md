@@ -3,7 +3,7 @@ layout: blog
 body-class: home
 title: "Help Wanted: Increase the Effectiveness of your Tax Dollar!"
 blog-date: June 18, 2018
-blog-author: OMB Deputy Director of Management, Margaret Weichert, was originally posted on Performace.gov
+blog-author: OMB Deputy Director of Management, Margaret Weichert, was originally posted on <a href="https://www.performance.gov/about/news.html">Performace.gov</a>
 blog-title:
 permalink: /2018/06/18/TBM-FBO-Blog/
 background-image: /assets/img/grey.background.png
@@ -16,10 +16,6 @@ banner-text:
 banner-button-text: 
 banner-button-link: 
 ---
-
-<i>This blog written by OMB Deputy Director of Management, Margaret Weichert, was originally posted on <a href="https://www.performance.gov/about/news.html">Performance.gov </a> </i>	
-<br>	
-<br>
 
 The Federal government spends at least $90 billion annually on IT. The announcement of the President’s Management Agenda included a cross-agency priority goal specifically focused on increasing transparency in spend and performance metrics associated with IT across the enterprise. The adoption of the Technology Business Management (TBM) Framework will provide more granularity in IT investments based upon an open-source taxonomy broadly accepted across both private and public sector organizations. The effort will help Federal executives to make data-driven decisions and analyze trade-offs between cost, quality and value when allocating valuable tax payer dollars to support IT initiatives.
 
